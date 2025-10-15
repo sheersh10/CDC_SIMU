@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Data Analysis - Interactive Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .stats-bar {
+            display: flex;
+            justify-content: space-around;
+            background: #f8f9fa;
+            padding: 30px;
+            border-bottom: 3px solid #e9ecef;
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            color: #6c757d;
+            margin-top: 5px;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .intro {
+            background: #e7f3ff;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin-bottom: 40px;
+            border-radius: 8px;
+        }
+        
+        .intro h2 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .plots-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+        
+        .plot-card {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .plot-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 20px rgba(102, 126, 234, 0.3);
+            border-color: #667eea;
+        }
+        
+        .plot-number {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 40px;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 15px;
+        }
+        
+        .plot-card h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+        
+        .plot-card p {
+            color: #6c757d;
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+        
+        .plot-card .tags {
+            margin-bottom: 15px;
+        }
+        
+        .tag {
+            display: inline-block;
+            background: #e7f3ff;
+            color: #667eea;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            margin: 2px;
+        }
+        
+        .plot-card .buttons {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn {
+            flex: 1;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9em;
+            font-weight: 600;
+            text-decoration: none;
+            text-align: center;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-secondary {
+            background: #f8f9fa;
+            color: #333;
+            border: 2px solid #dee2e6;
+        }
+        
+        .btn-secondary:hover {
+            background: #e9ecef;
+        }
+        
+        .resources {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            margin-top: 40px;
+            border-radius: 8px;
+        }
+        
+        .resources h2 {
+            color: #856404;
+            margin-bottom: 15px;
+        }
+        
+        .resources ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .resources li {
+            padding: 8px 0;
+            border-bottom: 1px solid #ffe69c;
+        }
+        
+        .resources li:last-child {
+            border-bottom: none;
+        }
+        
+        .resources a {
+            color: #856404;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .resources a:hover {
+            text-decoration: underline;
+        }
+        
+        footer {
+            background: #343a40;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+        
+        footer p {
+            margin: 5px 0;
+            opacity: 0.8;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 Placement Data Analysis Dashboard</h1>
+            <p>Interactive Visualizations for 2023-24 Placement Season</p>
+        </header>
+        
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-number">1,235</div>
+                <div class="stat-label">Total Students</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">22</div>
+                <div class="stat-label">Departments</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">79</div>
+                <div class="stat-label">Companies</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">21.62%</div>
+                <div class="stat-label">Placement Rate</div>
+            </div>
+        </div>
+        
+        <div class="content">
+            <div class="intro">
+                <h2>🎯 Welcome to the Analysis Dashboard</h2>
+                <p>This interactive dashboard provides comprehensive insights into the placement season through <span class="highlight">7 beautiful visualizations</span>. Each plot is interactive - hover for details, zoom to explore, and download custom views.</p>
+                <p><strong>Quick Start:</strong> Click on any plot below to explore the interactive version. Use the PNG download button for presentations.</p>
+            </div>
+            
+            <div class="plots-grid">
+                <!-- Plot 1 -->
+                <div class="plot-card">
+                    <div class="plot-number">1</div>
+                    <h3>Departmental Performance</h3>
+                    <p>Grouped bar chart comparing total students vs. placed students across all departments.</p>
+                    <div class="tags">
+                        <span class="tag">Bar Chart</span>
+                        <span class="tag">Comparison</span>
+                        <span class="tag">Core Metric</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_1_departmental_performance.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_1_departmental_performance.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 2 -->
+                <div class="plot-card">
+                    <div class="plot-number">2</div>
+                    <h3>CGPA Distribution</h3>
+                    <p>Multi-panel analysis showing CGPA patterns, high performers, and departmental averages.</p>
+                    <div class="tags">
+                        <span class="tag">Histogram</span>
+                        <span class="tag">Box Plot</span>
+                        <span class="tag">Statistics</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_2_cgpa_distribution.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_2_cgpa_distribution.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 3 -->
+                <div class="plot-card">
+                    <div class="plot-number">3</div>
+                    <h3>Department × Domain Matrix</h3>
+                    <p>Heatmap revealing career preference patterns and cross-domain transitions.</p>
+                    <div class="tags">
+                        <span class="tag">Heatmap</span>
+                        <span class="tag">Matrix</span>
+                        <span class="tag">Preferences</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_3_department_domain_heatmap.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_3_department_domain_heatmap.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 4 -->
+                <div class="plot-card">
+                    <div class="plot-number">4</div>
+                    <h3>Companies Per Day</h3>
+                    <p>Timeline analysis showing recruitment activity distribution across 4 placement days.</p>
+                    <div class="tags">
+                        <span class="tag">Timeline</span>
+                        <span class="tag">Bar Chart</span>
+                        <span class="tag">Trend</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_4_companies_per_day.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_4_companies_per_day.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 5 -->
+                <div class="plot-card">
+                    <div class="plot-number">5</div>
+                    <h3>KPI Dashboard</h3>
+                    <p>Key performance indicators showing total students, placements, and success rate.</p>
+                    <div class="tags">
+                        <span class="tag">KPIs</span>
+                        <span class="tag">Metrics</span>
+                        <span class="tag">Summary</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_5_kpi_cards.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_5_kpi_cards.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 6 -->
+                <div class="plot-card">
+                    <div class="plot-number">6</div>
+                    <h3>Placement Comparison</h3>
+                    <p>Dual visualization: placement rates and placed vs. unplaced student distribution.</p>
+                    <div class="tags">
+                        <span class="tag">Horizontal Bar</span>
+                        <span class="tag">Grouped Bar</span>
+                        <span class="tag">Detailed</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_6_placement_comparison.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_6_placement_comparison.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+                
+                <!-- Plot 7 -->
+                <div class="plot-card">
+                    <div class="plot-number">7</div>
+                    <h3>CGPA Boxplot Analysis</h3>
+                    <p>Statistical distribution of CGPA across departments showing medians and outliers.</p>
+                    <div class="tags">
+                        <span class="tag">Box Plot</span>
+                        <span class="tag">Distribution</span>
+                        <span class="tag">Statistics</span>
+                    </div>
+                    <div class="buttons">
+                        <a href="analysis_plots/plot_7_cgpa_boxplot.html" class="btn btn-primary" target="_blank">View Interactive</a>
+                        <a href="analysis_plots/plot_7_cgpa_boxplot.png" class="btn btn-secondary" download>📥 PNG</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="resources">
+                <h2>📚 Additional Resources</h2>
+                <ul>
+                    <li>📄 <a href="PLACEMENT_ANALYSIS_REPORT.md">Comprehensive Analysis Report</a> - Detailed interpretation of all visualizations</li>
+                    <li>⚡ <a href="analysis_plots/QUICK_REFERENCE.md">Quick Reference Guide</a> - Fast-access interpretation tips</li>
+                    <li>📋 <a href="analysis_plots/README.md">Plot Documentation</a> - Technical details and usage instructions</li>
+                    <li>📦 <a href="ANALYSIS_PACKAGE_README.md">Complete Package Guide</a> - Overview of entire analysis package</li>
+                    <li>🐍 <a href="generate_analysis_plots.py">Python Script</a> - Regenerate plots with updated data</li>
+                </ul>
+            </div>
+        </div>
+        
+        <footer>
+            <p><strong>Placement Data Analysis Dashboard</strong></p>
+            <p>Generated: October 2025 | Data Source: 2023-24 Placement Season</p>
+            <p>Interactive visualizations powered by Plotly</p>
+        </footer>
+    </div>
+</body>
+</html>
