@@ -1,0 +1,83 @@
+S.No,company_name,job_role,allowed_departments,min_cgpa,required_skills,arrival_day,min_offers,max_offers
+1,Adobe,Data,ALL,7+,"ML, DL, NLP, LLMs, Leetcode Medium, CV knowledge",1,3,7
+2,Adobe,SDE,ALL,7+,"OOPS, DSA, OS",1,4,8
+3,Adobe,DATA,"CSE, MnC, ECE, EE",8.5+,"Machine Learning, Deep Learning, DSA, OS, Computer Architecture",1,3,7
+4,Samsung R&D (Korea),SDE,"CSE, ECE, EE, IE, MA","7.5+ for Dev, 8.5+ for Advanced Dev","DSA, Aptitude, OOPS, In-depth project knowledge",1,0,2
+5,Alphagrep,SDE,"CSE, MnC, ECE (Likely)",8.5+,"C++, OOPS, Networks, OS, DSA",1,5,8
+6,Amazon,SDE,ALL,NONE,"DSA (DP, graph, sliding window, trees, binary search), CP",1,4,10
+8,Samsung Research (SRI NOIDA),R&D,CIRCUITAL,7.5+,"DSA (Graphs, DP, Trees, Segment Trees, Binary search), CP",3,4,7
+9,Texas Instruments,Signal Processing,E&ECE,6,"Probability, Random Variables, Sampling, LTI Systems, FT, DTFT, DFT, LT, ZT",2,3,5
+13,Rippling,AI engineer / SDE,Not department specific,NA,"Coding skills (Graph/trees algorithms), Web Development",1,2,5
+14,Salesforce,SDE,All deptartments,8,"DSA (Graphs), Web Development",2,5,8
+15,Samsung,SDE,Circuital,8.5,"DSA (Graphs, Trees, DP)",1,2,5
+16,Samsung R&D Delhi,SDE,Circuital,7,"Basic DSA, AI/ML project knowledge, Interpersonal skills",3,3,7
+17,Samsung Bengaluru R&D,SDE,Circuital,7.5,"Basic DSA, AI/ML project knowledge, Interpersonal skills",3,6,10
+23,NVIDIA,System Software Engineer,"CSE,ECE,EE",8,"OOP, OS, Computer Architecture, Linux, Embedded systems, CP, Puzzles",1,3,7
+24,ORACLE,SDE,Circuitals,7.5,"DSA, OOPS",3,4,7
+25,AWL Inc.,AI Engineer,All,8.5,"Deep Learning (CNNs, RNNs, transformers), Generative AI (LLMs, VLMs), DSA, Python, Data Science, Statistics, Probability",1,1,3
+26,Bidgely,Software Development Engineer,"CSE, MA, EC, EE, IE",7.5,"DSA (Greedy, DP, Trees), CP, Web development",3,2,4
+32,Databricks,SDE,OPEN TO ALL,NONE,"Strong DSA, Basics of CS",1,4,8
+33,DE Shaw & Co,SDE,OPEN TO ALL,8.5,"CP, Communication skills",1,2,5
+36,Graviton Research Capital,SDE,"CSE, MNC, EE, ECE",8.5,"CP (DP, Graph, Segment trees), Systems (OOP, OS, Networks, Comp Arch)",1,5,8
+37,Honeywell,Software,OPEN TO ALL,7,"DSA (medium-level), Strong project knowledge",3,7,10
+42,Microsoft,Software Development,OPEN TO ALL,NONE,"DSA (Grid problems, DP, DFS tree, BFS graph)",1,7,10
+44,Jaguar Land Rover,Software,ALL,6.5,"C++, OOP, DP, Aptitude",4,2,5
+45,Jaguar Land Rover,Electric Vehicle Software,"CSE, ECE, EE, ME, AE",7.5,"Aptitude, Core-electronics/electrical, Programming, Communication",4,2,5
+47,Sprinklr,Management Trainee,ONLY BTech.,NONE,"DSA (Leetcode hard), OOPS, Basic system design",2,2,5
+54,Sprinklr,Product,All departments,8,"DSA (Leetcode hard), OOPS, Basic system design",2,5,8
+58,HUL,DATA,"EE, ME, IM, CH",NONE,"Consulting cases, Guesstimates, Course knowledge",1,2,6
+61,Nomura,DATA,OPEN TO ALL,8,"CFA/FRM knowledge, Global market awareness, Probability puzzles, Guesstimates, Case study, Communication",1,2,4
+62,Nation with Namo,Political Consulting,OPEN TO ALL,NONE,"Current affairs, Political awareness, Guesstimates, Case-solving, Communication",4,2,5
+66,Accenture Strategy,Consulting,ALL,7+,"Case prep, CV knowledge, Structured answers, Confidence",3,6,10
+72,Qualcomm,Systems,ECE and EE,7,"Probability, Random Process, Signal Processing, Communication, Detection and Estimation",2,3,5
+73,Qualcomm,Radio Frequency Software,ECE and EE,7,"Analog and Digital Communication, Python, RF Communication",2,3,5
+74,Qualcomm,Hardware,ECE and EE,None,"Digital Electronics, Analog, VLSI, COA, STA, C, Python",2,3,5
+80,Cohesity,Core,"CSE, MNC, AI",7.5,"DSA, Leetcode, CP, Communication",3,1,3
+81,Google,Core,"EE, ECE",NONE,"Digital topics (STA, MUX), Verilog, Computer Architecture, Basic coding",1,3,6
+85,ITC,CORE_ME/IM,"EE, ISE, ME, CH",NONE,"Behavioral questions, Corporate case study, Core department knowledge",1,2,6
+87,Optiver,Quant,Circuital,8.5,"Quick maths, Market making, Expected value, Probability, Trading games",1,2,5
+88,Wells Fargo,Quant,ALL,7.5+,Not Mentioned,2,2,4
+89,Nomura,QUANT,CIRCUITAL and FP,NONE,"PnS, Optimization, Basic ML, C++/Python, DSA (basic)",1,2,4
+90,Morgan Stanley,Data,OPEN TO ALL,NONE,"PnS, Maths, Finance basics",1,4,6
+95,American Express,Analyst,ALL,8.5+ preferably,"Machine learning (Decision tree, Xgboost), Statistics, Probability",1,3,7
+96,Texas Instruments,ANALOG ,E&ECE,6,"C, C++, MATLAB, Python, MySQL, Assembly language, VHDL, Verilog.
+Circuit simulation softwares and CAD: Simulink, LTspice, TINA-TI, Solidworks, Cadence, ADEL, Proteus, Atmel Studio, Xilinx, Motorcad",2,3,7
+97,Texas Instruments,DIGITAL,E&ECE,6,"C, C++, MATLAB, Python, MySQL, Assembly language, VHDL, Verilog.
+Circuit simulation softwares and CAD: Simulink, LTspice, TINA-TI, Solidworks, Cadence, ADEL, Proteus, Atmel Studio, Xilinx, Motorcad.",2,3,7
+98,Google,SDE,ALL,NONE,"DSA (DP, graph, sliding window, trees, binary search), CP",1,8,13
+99,Wells Fargo,SDE,CIRCUITAL and FP,NONE,"DSA (DP, graph, sliding window, trees, binary search), CP",1,4,6
+100,BAIN,Consulting,ALL,8.5,"Good Communication skills,Management Experience,Guesstimates , C , C++ , Python , DSA",1,3,5
+101,BCG,Consulting,ALL,8.5,"Good Communication skills,Management Experience,Guesstimates , C , C++ , Python , DSA",1,2,4
+102,Glean,SDE,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP",1,2,4
+103,JPMC,SDE,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP",1,3,6
+104,JPMC,Finance,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP,Probability",1,3,6
+105,JPMC,Quant,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP,Probability",1,3,6
+106,Proctor and Gamble,Consultinig,ALL,8,"Good Communication skills,Management Experience,Guesstimates , C , C++ , Python , DSA",1,3,5
+107,Quadeye,Quant,"CS, EC, MA",9,"Good Communication skills,Management Experience,Guesstimates , C , C++ , Python , DSA",1,2,6
+108,Rubrik,SDE,Circuital,8,"DSA (DP, graph, sliding window, trees, binary search), CP",1,2,4
+109,Trexquant,Quant,ALL,9,"DSA (DP, graph, sliding window, trees, binary search), CP,Probability",1,0,2
+110,UBER,SDE,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP",1,2,4
+111,BAJAJ,CORE,"CSE,ECE,EE,ME,MT",7,"Good skills in Analog Electronics,Digital Electronics",2,5,8
+112,Blackrock,Finance,ALL,7.5,"DSA, Finance Concepts, Market Basics",1,3,7
+113,Blackrock,Data,ALL,7.5,DSA,1,3,7
+114,Stripe,Data,"CSE,ECE,EE,MNC",7.5,DSA,1,3,5
+115,Accenture Strategy,AI,ALL,7.5,DSA,3,5,8
+116,Axxela,Finance,ALL,7,"Finance Basics, Market Knowledge, DSA",3,4,6
+117,Devrev,SDE,"CSE,ECE,EE,IM,MA",7,"DSA (DP, graph, sliding window, trees, binary search), CP,OOP",3,2,4
+118,FLIPKART,SDE,ALL,7,"DSA (DP, graph, sliding window, trees, binary search), CP",3,4,6
+119,Fidelity Investment,,ALL,7,,3,3,5
+120,Finmechanics,Finance,ALL,7,"Logical Thinking. DSA, Strong Communication Skills",3,3,5
+121,Insurity,AI,"AI,CSE,EE,ECE,MA",7.5,"DSA (DP, graph, sliding window, trees, binary search), CP,AI-ML Experience, Deep Learning",3,3,5
+122,Meesho,SDE,ALL,7.5,"DSA (DP, graph, sliding window, trees, binary search), CP",3,4,6
+123,Limechat,SDE,ALL,7,,3,3,5
+124,Info Edge,SDE,ALL,,"DSA (DP, graph, sliding window, trees, binary search), CP",3,2,5
+125,Pattern,SDE,ALL,,"DSA (DP, graph, sliding window, trees, binary search), CP",3,4,6
+126,Siemens,EDA,"CS,ECE,EE",7,"C, C++, MATLAB, Python, MySQL, Assembly language, VHDL, Verilog.
+Circuit simulation softwares and CAD: Simulink, LTspice, TINA-TI, Solidworks, Cadence, ADEL, Proteus, Atmel Studio, Xilinx, Motorcad.",4,4,6
+127,Eternal,SDE,ALL,7,"DSA (DP, graph, sliding window, trees, binary search), CP",4,4,6
+128,Purplle,Non-tech,ALL,7,,4,2,4
+130,American Express,SDE,ALL,8.5+ preferably,"DSA (DP, graph, sliding window, trees, binary search), CP",1,3,7
+131,Goldman Sachs(GS),SDE,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP",1,2,5
+132,Goldman Sachs(GS),Data,ALL,8,"Machine Learning, Deep Learning, DSA, OS, Computer Architecture, CP",1,2,5
+133,Goldman Sachs(GS),Quant,ALL,8,"DSA (DP, graph, sliding window, trees, binary search), CP,Probability",1,2,5
+134,Graviton Research Capital,Quant,"CSE, MNC, EE, ECE",8.5,"CP (DP, Graph, Segment trees), Probability",1,2,5

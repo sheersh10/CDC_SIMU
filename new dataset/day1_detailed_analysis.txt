@@ -1,0 +1,76 @@
+================================================================================
+DAY 1 PLACEMENT RESULTS - DETAILED ANALYSIS
+================================================================================
+
+1. OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Students: 1223
+
+Status Distribution:
+status
+Unplaced     984
+Placed       211
+Opted_Out     28
+
+2. DEPARTMENT-WISE PLACEMENT RATE
+--------------------------------------------------------------------------------
+CS: 50/90 (55.6%)
+MA: 27/74 (36.5%)
+CY: 11/43 (25.6%)
+HS: 16/65 (24.6%)
+EC: 19/95 (20.0%)
+SD: 4/21 (19.0%)
+AG: 7/40 (17.5%)
+ME: 15/105 (14.3%)
+EE: 12/89 (13.5%)
+MT: 5/45 (11.1%)
+PH: 4/39 (10.3%)
+BT: 3/30 (10.0%)
+IM: 4/41 (9.8%)
+AE: 4/43 (9.3%)
+MF: 3/35 (8.6%)
+IE: 4/48 (8.3%)
+CH: 7/87 (8.0%)
+EX: 3/42 (7.1%)
+GG: 3/47 (6.4%)
+CE: 3/58 (5.2%)
+MI: 2/46 (4.3%)
+
+3. COMPANY-WISE PLACEMENTS
+--------------------------------------------------------------------------------
+Microsoft_Software Development: 13
+Databricks_SDE: 12
+Google_SDE: 12
+Amazon_SDE: 12
+Google_Core: 10
+Blackrock_Finance: 9
+Goldman Sachs(GS)_Data: 9
+Adobe_Data: 9
+Adobe_SDE: 8
+Adobe_DATA: 8
+Graviton Research Capital_SDE: 7
+BCG_Consulting: 7
+Quadeye_Quant: 7
+Blackrock_Data: 7
+American Express_Analyst: 6
+Goldman Sachs(GS)_SDE: 6
+ITC_CORE_ME/IM: 6
+Alphagrep_SDE: 6
+Stripe_Data: 6
+Morgan Stanley_Data: 6
+Optiver_Quant: 5
+HUL_DATA: 5
+JPMC_SDE: 4
+Graviton Research Capital_Quant: 4
+American Express_SDE: 4
+BAIN_Consulting: 3
+JPMC_Finance: 3
+Nomura_DATA: 3
+Goldman Sachs(GS)_Quant: 2
+Samsung_SDE: 2
+DE Shaw & Co_SDE: 2
+Trexquant_Quant: 2
+Glean_SDE: 2
+Rubrik_SDE: 2
+Nomura_QUANT: 1
+UBER_SDE: 1

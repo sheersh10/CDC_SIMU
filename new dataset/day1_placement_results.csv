@@ -1,0 +1,1224 @@
+roll_no,name,department,cgpa,domain_1,domain_2,status,placed_company
+23MI10002,Aayush Kalyani,MI,7.55,SDE,Core_MI,Unplaced,Not Placed
+23MI10003,Abhishek Gupta,MI,7.5,SDE,Core_MI,Unplaced,Not Placed
+23MI10005,Aliva Patro,MI,7.33,SDE,Data,Unplaced,Not Placed
+23MI10007,Ankesh Kumar Singh,MI,7.58,SDE,Data,Unplaced,Not Placed
+23MI10008,Anshu Kumar,MI,8.08,SDE,,Unplaced,Not Placed
+23MI10009,Arya Satyanarayan Sadala,MI,8.25,Finance,Core_MI,Unplaced,Not Placed
+23MI10010,Aryan Dagar,MI,8.35,SDE,Core_MI,Opted_Out,Not Placed
+23MI10011,Ayush Aggarwal,MI,6.53,SDE,Core_MI,Unplaced,Not Placed
+23MI10012,Ayush Gupta,MI,7.6,SDE,,Unplaced,Not Placed
+23MI10013,Bhukya Chandra Prakash,MI,7.19,SDE,Data,Unplaced,Not Placed
+23MI10014,Bhumika Goyal,MI,8.05,SDE,,Unplaced,Not Placed
+23MI10015,Deepansh Agnihotri,MI,7.83,SDE,,Unplaced,Not Placed
+23MI10016,Devanshu Pathak,MI,7.42,SDE,Core_MI,Unplaced,Not Placed
+23MI10017,Dhavanraj,MI,8.48,SDE,Core_MI,Unplaced,Not Placed
+23MI10018,G Sai Kiran,MI,8.87,SDE,,Unplaced,Not Placed
+23MI10019,Harshil Agarwal,MI,7.79,SDE,Core_MI,Unplaced,Not Placed
+23MI10022,Kushal Vidyarthi,MI,7.14,SDE,Core_MI,Unplaced,Not Placed
+23MI10024,Madhav Soni,MI,8.44,SDE,,Unplaced,Not Placed
+23MI10025,Mehedhi Hassan Laskar,MI,8.5,SDE,Core_MI,Unplaced,Not Placed
+23MI10026,Monika Kumari,MI,8.94,SDE,,Unplaced,Not Placed
+23MI10027,Mritunjoy Hazra,MI,7.66,SDE,Core_MI,Unplaced,Not Placed
+23MI10028,Muzaffar Hussain,MI,8.74,SDE,,Unplaced,Not Placed
+23MI10030,Nehal Singh,MI,7.75,SDE,Core_MI,Unplaced,Not Placed
+23MI10032,Pentela Tapaswini,MI,6.65,SDE,Core_MI,Unplaced,Not Placed
+23MI10034,Priti Das,MI,8.18,SDE,Data,Unplaced,Not Placed
+23MI10035,Rahul Kumar,MI,7.89,SDE,,Unplaced,Not Placed
+23MI10036,Rajan Dahire,MI,8.08,SDE,,Unplaced,Not Placed
+23MI10037,Reyansh Jain,MI,7.58,SDE,,Unplaced,Not Placed
+23MI10038,Rohit Kumar Sahoo,MI,7.7,SDE,,Unplaced,Not Placed
+23MI10039,Sabita Kumari,MI,7.49,SDE,Data,Unplaced,Not Placed
+23MI10040,Saksham Tiwari,MI,7.53,SDE,Data,Unplaced,Not Placed
+23MI10041,Satakshi Chauhan,MI,8.65,SDE,Core_MI,Unplaced,Not Placed
+23MI10042,Sayan Mandal,MI,7.34,SDE,,Opted_Out,Not Placed
+23MI10043,Shashank Yadav,MI,8.08,SDE,,Unplaced,Not Placed
+23MI10047,Som Kumar,MI,7.51,SDE,,Unplaced,Not Placed
+23MI10048,Soumily Nayek,MI,8.82,SDE,Core_MI,Unplaced,Not Placed
+23MI10049,Soumya Kanta Das,MI,8.13,SDE,Core_MI,Unplaced,Not Placed
+23MI10051,Sundilla Srinivas,MI,8.9,SDE,Core_MI,Unplaced,Not Placed
+23MI10058,Yuvraj Rathod,MI,8.46,SDE,Core_MI,Unplaced,Not Placed
+23MI10053,Tailesh Meena,MI,8.5,Data,CONSULTING,Unplaced,Not Placed
+23MI10054,Tarun Verma,MI,8.18,SDE,Core_MI,Unplaced,Not Placed
+23MI10055,Uditangshu Chakraborty,MI,8.25,Data,CONSULTING,Unplaced,Not Placed
+23MI10056,Utkarsh Sonpipre,MI,7.86,SDE,Core_MI,Unplaced,Not Placed
+23MI10057,Veeragoni Bhavya Goud,MI,7.35,Finance,Core_MI,Opted_Out,Not Placed
+23MI10052,Swarup Jayaram Dhanavade,MI,8.54,Data,CONSULTING,Unplaced,Not Placed
+23MI10059,Zeeshan Azhar,MI,7.96,SDE,Core_MI,Unplaced,Not Placed
+23IE10001,Aditya Debnath,IE,8.64,SDE,Data,Unplaced,Not Placed
+23IE10002,Akanksha Kushwaha,IE,7.81,SDE,Core_IE,Unplaced,Not Placed
+23IE10003,Animesh Mondal,IE,7.02,SDE,Core_IE,Unplaced,Not Placed
+23IE10004,Animesh Raj,IE,8.17,SDE,Core_IE,Unplaced,Not Placed
+23IE10005,Anushesh Jumale,IE,8.47,SDE,Core_IE,Unplaced,Not Placed
+23IE10006,Aritra Sarkar,IE,8.26,SDE,,Opted_Out,Not Placed
+23IE10007,Arka Ghosh,IE,7.66,Data,Finance,Unplaced,Not Placed
+23IE10008,Arkajyoti Dey,IE,8.01,SDE,Core_IE,Unplaced,Not Placed
+23IE10009,Aryan Singh,IE,7.85,SDE,Core_IE,Opted_Out,Not Placed
+23IE10010,Atul Singh,IE,8.01,SDE,Data,Unplaced,Not Placed
+23IE10012,Bhukya Praveen,IE,8.31,SDE,Core_IE,Unplaced,Not Placed
+23IE10013,Daksh Sargiya,IE,8.94,SDE,,Unplaced,Not Placed
+23IE10014,Debaleena Ganguly,IE,6.99,SDE,Core_IE,Unplaced,Not Placed
+23IE10015,Debanjan Naskar,IE,8.63,SDE,Core_IE,Unplaced,Not Placed
+23IE10017,Divyansh Jain,IE,8.99,CONSULTING,Core_IE,Unplaced,Not Placed
+23IE10018,Durgam Abhinaya,IE,8.51,CONSULTING,Core_IE,Unplaced,Not Placed
+23IE10019,Eshwar Chandra Bhadhavath,IE,7.89,SDE,,Unplaced,Not Placed
+23IE10020,Eslavath Chakravarthi,IE,8.41,SDE,,Unplaced,Not Placed
+23IE10021,Gandham Ramya Sri Naga Satya Durga,IE,7.87,SDE,,Unplaced,Not Placed
+23IE10022,Gupta Aman Vishnu,IE,9.36,Quant,SDE,Opted_Out,Not Placed
+23IE10023,Jyoti Hembram,IE,8.64,SDE,Core_IE,Unplaced,Not Placed
+23IE10024,Kinnar Halder,IE,8.21,SDE,CONSULTING,Unplaced,Not Placed
+23IE10025,Kolli Krishna Vamsi,IE,7.41,SDE,Core_IE,Unplaced,Not Placed
+23IE10026,Koushik Debnath,IE,7.41,SDE,Core_IE,Unplaced,Not Placed
+23IE10027,Krish Jaiman,IE,6.45,SDE,Core_IE,Unplaced,Not Placed
+23IE10028,Md Musharraf,IE,8.48,SDE,Data,Unplaced,Not Placed
+23IE10029,Mishukh Shil,IE,8.2,SDE,Core_IE,Unplaced,Not Placed
+23IE10030,Om Dabhade,IE,8.65,SDE,CONSULTING,Opted_Out,Not Placed
+23IE10031,Om Singh Jadon,IE,8.4,SDE,Core_IE,Unplaced,Not Placed
+23IE10032,Piyush Agrawal,IE,7.29,SDE,Core_IE,Unplaced,Not Placed
+23IE10033,Pratyay Ganguly,IE,7.59,SDE,,Unplaced,Not Placed
+23IE10036,Sayak Sardar,IE,7.43,SDE,Core_IE,Unplaced,Not Placed
+23IE10037,Shaurya Raj,IE,8.32,SDE,Core_IE,Unplaced,Not Placed
+23IE10038,Shriya Sinha,IE,8.38,Data,CONSULTING,Unplaced,Not Placed
+23IE10040,Subhigya Priyansh,IE,7.93,SDE,Core_IE,Unplaced,Not Placed
+23IE10041,Subhrojit Das,IE,8.69,SDE,CONSULTING,Placed,BCG_Consulting
+23IE10042,Sunny,IE,6.89,CONSULTING,Core_IE,Unplaced,Not Placed
+23IE10043,Theeda Mounika,IE,7.12,SDE,,Unplaced,Not Placed
+23IE10044,Archit Sinha Babu,IE,8.11,SDE,Core_IE,Unplaced,Not Placed
+23IE10045,Anish Dey,IE,8.59,SDE,Core_IE,Opted_Out,Not Placed
+23IE10046,Sreedeep Chatterjee,IE,8.22,SDE,Core_IE,Unplaced,Not Placed
+23IE10047,Malyadip Pal,IE,9.23,SDE,Core_IE,Opted_Out,Not Placed
+23IE10048,Prithviraj Chandrakant Solanke,IE,7.93,SDE,Core_IE,Unplaced,Not Placed
+23IE10049,Kesava Karthik R,IE,7.94,SDE,Core_IE,Opted_Out,Not Placed
+23IE10050,Kushagra Hathiwala,IE,7.91,CONSULTING,Core_IE,Unplaced,Not Placed
+23IE10051,Shaibya Raj,IE,6.99,SDE,Data,Opted_Out,Not Placed
+23IE10052,Lovish Jain,IE,8.1,SDE,,Unplaced,Not Placed
+23IE3FP38,Rishabh Ravindra Kumar Parihar,IE,8.22,SDE,,Unplaced,Not Placed
+23HS10001,Abhideep Shikhar,HS,7.9,Finance,SDE,Unplaced,Not Placed
+23HS10002,Abhijeet Kumar,HS,6.91,Finance,Data,Unplaced,Not Placed
+23HS10003,Aditya Biswas,HS,8.52,Finance,Data,Unplaced,Not Placed
+23HS10004,Akshat Mittal,HS,7.39,Finance,Data,Unplaced,Not Placed
+23HS10006,Alkaif Khan,HS,7.75,Finance,SDE,Unplaced,Not Placed
+23HS10007,Aniket Kanwar,HS,7.69,Finance,Data,Unplaced,Not Placed
+23HS10008,Ankita Singh,HS,6.78,Finance,SDE,Unplaced,Not Placed
+23HS10009,Anugrah Bagla,HS,7.33,Finance,Data,Unplaced,Not Placed
+23HS10010,Anurag Pokhariyal,HS,8.31,Finance,SDE,Unplaced,Not Placed
+23HS10011,Astitva Singh,HS,7.8,Data,Finance,Unplaced,Not Placed
+23HS10012,Atharv Lodhi,HS,6.85,Data,Finance,Unplaced,Not Placed
+23HS10013,Bhagwat Gargi Pramod,HS,8.39,Finance,Data,Unplaced,Not Placed
+23HS10014,Bhushan Satish Deshmane,HS,6.44,Finance,SDE,Unplaced,Not Placed
+23HS10015,Binaya Kumar Naik,HS,7.33,SDE,Finance,Unplaced,Not Placed
+23HS10016,Danish Altaf Kalsekar,HS,7.76,Data,Finance,Unplaced,Not Placed
+23HS10018,Dhruv Malpani,HS,8.95,Data,Finance,Placed,Blackrock_Finance
+23HS10019,Dibakar Namasharma,HS,7.9,Finance,Data,Unplaced,Not Placed
+23HS10020,Divyansh Singh Solanki,HS,8.95,Finance,SDE,Placed,Blackrock_Finance
+23HS10021,Gauri Sushilkumar Rane,HS,8.37,Finance,Data,Unplaced,Not Placed
+23HS10022,Hardik Gogia,HS,8.45,Data,Finance,Unplaced,Not Placed
+23HS10023,Hitesh Godara,HS,9.35,Quant,SDE,Opted_Out,Not Placed
+23HS10024,Hurditya Tushar Dand,HS,8.65,Finance,SDE,Unplaced,Not Placed
+23HS10025,Ishan Yash Patel,HS,7.59,SDE,Finance,Unplaced,Not Placed
+23HS10026,Jenil Bhargav Baraiya,HS,8.76,Data,Finance,Placed,JPMC_Finance
+23HS10027,Keya Mallick,HS,7.67,Finance,SDE,Unplaced,Not Placed
+23HS10028,Kunal Meena,HS,7.5,Data,Finance,Unplaced,Not Placed
+23HS10029,Lakshya Raj Chourasia,HS,7.42,SDE,Finance,Unplaced,Not Placed
+23HS10030,Lokesh Nitin Ingale,HS,8.66,Data,Finance,Placed,Blackrock_Finance
+23HS10031,Malay Neerav Dixit,HS,8.47,Finance,Data,Unplaced,Not Placed
+23HS10032,Maloth Ashi,HS,7.41,Data,Finance,Unplaced,Not Placed
+23HS10033,Medisetti Lakshman Venkata Phani,HS,8.13,SDE,Finance,Unplaced,Not Placed
+23HS10034,Mohit Kumar,HS,8.03,Finance,Data,Opted_Out,Not Placed
+23HS10035,Murala Dinesh,HS,7.84,Finance,Data,Unplaced,Not Placed
+23HS10036,Murala Khusuma,HS,7.23,Data,Finance,Unplaced,Not Placed
+23HS10037,Parivesh Koshta,HS,8.74,SDE,Finance,Placed,JPMC_Finance
+23HS10038,Parth Chandrakant Khose,HS,8.22,SDE,Finance,Unplaced,Not Placed
+23HS10039,Patil Aditya Gopal,HS,8.77,SDE,Finance,Placed,JPMC_Finance
+23HS10040,Pragya Pathak,HS,8.14,Finance,Data,Opted_Out,Not Placed
+23HS10042,Rachit Gurjar,HS,7.48,Data,Finance,Unplaced,Not Placed
+23HS10043,Ramavath Sadguna Sahasra,HS,7.34,Finance,SDE,Unplaced,Not Placed
+23HS10044,Rashi Abhijit Suryawanshi,HS,7.34,Finance,SDE,Unplaced,Not Placed
+23HS10045,Raut Vinay Eknath,HS,9.04,Quant,SDE,Unplaced,Not Placed
+23HS10046,Rishith Prabhat,HS,8.13,Data,Finance,Unplaced,Not Placed
+23HS10047,Rohan,HS,8.95,Data,Finance,Unplaced,Not Placed
+23HS10049,Shamit Shah,HS,8.04,SDE,Finance,Unplaced,Not Placed
+23HS10050,Shobhit Kumar,HS,8.11,SDE,Finance,Unplaced,Not Placed
+23HS10051,Shubham Deepak Desai,HS,7.28,Finance,Data,Unplaced,Not Placed
+23HS10052,Sonil Negi,HS,8.57,Finance,SDE,Unplaced,Not Placed
+23HS10053,Sourav Choudhary,HS,7.91,Data,Finance,Unplaced,Not Placed
+23HS10054,Supratim Mondal,HS,8.33,Data,Finance,Unplaced,Not Placed
+23HS10055,Tallam Aishwarya,HS,8.0,Finance,SDE,Unplaced,Not Placed
+23HS10056,Tejavath Jyotheeraditya,HS,8.35,Finance,Data,Unplaced,Not Placed
+23HS10057,Utsav Pal,HS,9.6,Quant,SDE,Placed,Microsoft_Software Development
+23HS10058,V Roshini Evanjelen,HS,7.41,Finance,SDE,Unplaced,Not Placed
+23HS10059,Vishesh Guptai,HS,7.86,Finance,Data,Unplaced,Not Placed
+23HS10060,Vedaant Nigam,HS,8.7,Data,Finance,Unplaced,Not Placed
+23HS10061,Shachi Anil Agarwal,HS,7.74,Finance,SDE,Unplaced,Not Placed
+23HS10062,Krishna Bhatia,HS,8.01,Finance,SDE,Unplaced,Not Placed
+23HS10063,Dhruv Gupta,HS,7.46,Finance,Data,Unplaced,Not Placed
+23HS10064,Natabar Pradhan,HS,7.38,Finance,SDE,Unplaced,Not Placed
+23HS10065,Pratham Agarwal,HS,8.15,Data,Finance,Unplaced,Not Placed
+23HS10066,Himanshu Malik,HS,7.83,Finance,Data,Unplaced,Not Placed
+23HS10067,Piyush Bisht,HS,8.33,Finance,Data,Unplaced,Not Placed
+23HS10068,Eashaan Shirish Vyas,HS,8.33,SDE,Finance,Unplaced,Not Placed
+23SD11002,Aishwaryam Singh Tomar,SD,7.83,SDE,,Unplaced,Not Placed
+23SD11003,Natasa Pradhan,SD,7.41,SDE,Data,Unplaced,Not Placed
+23SD11004,Nitin,SD,7.12,SDE,CONSULTING,Unplaced,Not Placed
+23SD11005,Astha Singh,SD,7.79,SDE,,Unplaced,Not Placed
+23SD11010,Vatika,SD,8.26,SDE,,Unplaced,Not Placed
+23SD11011,Mansi Gujrati,SD,9.5,Quant,SDE,Unplaced,Not Placed
+23SD12005,Anant Pal Singh,SD,6.89,SDE,Data,Unplaced,Not Placed
+23SD13001,Shivangi Tripathi,SD,8.02,SDE,Data,Unplaced,Not Placed
+23SD13009,Gokulvinayak C R,SD,8.69,SDE,Data,Unplaced,Not Placed
+23SD13012,Anuradha Singh,SD,7.16,SDE,Data,Unplaced,Not Placed
+23SD14001,Saurav Kumar,SD,8.93,SDE,Data,Unplaced,Not Placed
+23SD14002,Shibu Sharan Dwivedi,SD,6.78,Finance,Data,Unplaced,Not Placed
+23SD14003,Nitya Verma,SD,7.86,SDE,Data,Unplaced,Not Placed
+23SD14005,Priyanshu Kumar Shaw,SD,7.11,SDE,Data,Unplaced,Not Placed
+23SD14006,Bhukya Arun,SD,8.66,SDE,Data,Opted_Out,Not Placed
+23SD14007,Purushottam Kumar,SD,8.65,SDE,,Unplaced,Not Placed
+23SD14009,Prashant Narayan Srivastav,SD,7.15,SDE,,Unplaced,Not Placed
+23SD14010,Yasaswini Panigrahi,SD,8.6,Data,CONSULTING,Unplaced,Not Placed
+23SD14011,Anamika,SD,6.81,SDE,Data,Unplaced,Not Placed
+23SD14012,Ketan Patre,SD,8.86,SDE,Data,Unplaced,Not Placed
+23SD11001,Krish Varshney,SD,8.73,SDE,Data,Unplaced,Not Placed
+23HS10048,R Sai Surendra,HS,7.18,Finance,SDE,Unplaced,Not Placed
+23EE10001,Aayush Vijay,EE,8.1,SDE,Core_EE,Unplaced,Not Placed
+23EE10003,Adithya Ananthanarayanan,EE,7.91,SDE,Core_EE,Opted_Out,Not Placed
+23EE10005,Aiman Ashna,EE,8.94,SDE,,Unplaced,Not Placed
+23EE10006,Aiswani Mondal,EE,7.97,SDE,Core_EE,Unplaced,Not Placed
+23EE10007,Amgoth Srinivas,EE,7.28,SDE,,Unplaced,Not Placed
+23EE10008,Anish Raj,EE,7.42,SDE,Data,Unplaced,Not Placed
+23EE10009,Anuj Asthana,EE,8.28,SDE,,Unplaced,Not Placed
+23EE10010,Arpit Yadav,EE,8.71,SDE,,Unplaced,Not Placed
+23EE10011,Aryan Aadambhai Sanghariyat,EE,8.16,SDE,,Unplaced,Not Placed
+23EE10013,Atla Hari Dheeraj Reddy,EE,7.82,SDE,,Unplaced,Not Placed
+23EE10014,Bhukya Shashi Kumar,EE,8.01,SDE,,Unplaced,Not Placed
+23EE10015,Devanaboyina Saketh Ram,EE,7.76,SDE,Finance,Unplaced,Not Placed
+23EE10016,Dhanraj Patil,EE,8.04,SDE,Core_EE,Opted_Out,Not Placed
+23EE10017,Dipendu Das,EE,7.3,SDE,,Unplaced,Not Placed
+23EE10018,Ganapa Shiva Sai Akhilesh Reddy,EE,8.03,SDE,,Unplaced,Not Placed
+23EE10019,Ganta Ayush Narayana,EE,8.48,SDE,Core_EE,Unplaced,Not Placed
+23EE10020,Grandhi M S R N Satya Sai,EE,8.4,SDE,,Unplaced,Not Placed
+23EE10021,Gujjalapudi Sree Kushal,EE,7.81,SDE,Core_EE,Unplaced,Not Placed
+23EE10022,Gunakala Jaswanth Sai,EE,8.38,SDE,Data,Unplaced,Not Placed
+23EE10023,Harsh Gupta,EE,7.58,SDE,Core_EE,Unplaced,Not Placed
+23EE10024,Himanshu Ravindra Iwanati,EE,8.61,SDE,,Unplaced,Not Placed
+23EE10025,Janhavi Kisan Khilari,EE,7.96,SDE,Data,Unplaced,Not Placed
+23EE10026,Jhimit Chakma,EE,8.77,SDE,Core_EE,Unplaced,Not Placed
+23EE10027,Kakarla Sivanwesh Reddy,EE,6.92,SDE,Core_EE,Unplaced,Not Placed
+23EE10028,Kandikatla Siddhartha,EE,7.78,SDE,,Unplaced,Not Placed
+23EE10029,Katyayani,EE,8.84,SDE,,Unplaced,Not Placed
+23EE10030,Kiran M J,EE,9.76,Quant,SDE,Placed,Google_SDE
+23EE10031,Kodali Sanjay,EE,8.72,SDE,Data,Unplaced,Not Placed
+23EE10032,Konathala Kusuma Akshaya Jyothik,EE,7.64,SDE,Finance,Unplaced,Not Placed
+23EE10033,Krrish Kumar,EE,7.76,SDE,,Unplaced,Not Placed
+23EE10034,Kuldeep Choudhary,EE,8.64,SDE,Core_EE,Unplaced,Not Placed
+23EE10036,Kushagra Poonia,EE,8.12,SDE,Core_EE,Unplaced,Not Placed
+23EE10037,Lahari Bitla,EE,7.77,SDE,Data,Unplaced,Not Placed
+23EE10038,Mallam Tharun Reddy,EE,7.89,SDE,Core_EE,Unplaced,Not Placed
+23EE10039,Mallareddy Gari Sri Shanth Reddy,EE,7.95,SDE,Core_EE,Unplaced,Not Placed
+23EE10040,Mihir Kumar Behera,EE,8.42,SDE,Core_EE,Unplaced,Not Placed
+23EE10041,Muddam Swadith Reddy,EE,7.22,SDE,,Unplaced,Not Placed
+23EE10042,Nakul Mandar Nilange,EE,7.83,SDE,Core_EE,Unplaced,Not Placed
+23EE10043,Nalla Shravika Reddy,EE,8.93,SDE,Core_EE,Unplaced,Not Placed
+23EE10044,Nishant,EE,8.06,SDE,Data,Unplaced,Not Placed
+23EE10045,Pooja Paswan,EE,7.81,SDE,Core_EE,Unplaced,Not Placed
+23EE10046,Pramod Kumar,EE,8.39,SDE,Data,Placed,HUL_DATA
+23EE10047,Pranali Prakash Patil,EE,7.79,SDE,,Unplaced,Not Placed
+23EE10048,Pranav V,EE,8.74,Data,CONSULTING,Unplaced,Not Placed
+23EE10050,Raghavkrishna Ramasamy Chandra,EE,8.77,SDE,,Unplaced,Not Placed
+23EE10051,Rahul,EE,6.97,SDE,Core_EE,Unplaced,Not Placed
+23EE10052,Rahul Kumar Nirala,EE,8.38,SDE,Data,Unplaced,Not Placed
+23EE10053,Ramesh Kumar Das,EE,8.53,SDE,Core_EE,Unplaced,Not Placed
+23EE10055,Ritu Raj,EE,7.76,CONSULTING,Core_EE,Unplaced,Not Placed
+23EE10056,Ritwik Suresh,EE,8.48,SDE,Core_EE,Unplaced,Not Placed
+23EE10057,Rohit Ravipudi,EE,6.68,SDE,CONSULTING,Unplaced,Not Placed
+23EE10058,Rupesh Sahoo,EE,8.79,SDE,Core_EE,Unplaced,Not Placed
+23EE10059,Sajal Sharma,EE,8.92,SDE,Core_EE,Unplaced,Not Placed
+23EE10060,Sameera Jenna,EE,8.02,SDE,Data,Unplaced,Not Placed
+23EE10061,Samriddh Agrawal,EE,8.5,SDE,Data,Opted_Out,Not Placed
+23EE10062,Sathi Eswar Prasad Reddy,EE,8.4,Data,CONSULTING,Placed,HUL_DATA
+23EE10063,Sathvika Chitla,EE,7.75,CONSULTING,Core_EE,Unplaced,Not Placed
+23EE10064,Saurabh Keshari,EE,7.83,SDE,Core_EE,Unplaced,Not Placed
+23EE10067,Soumadip Sarkar,EE,8.99,SDE,Core_EE,Unplaced,Not Placed
+23EE10069,Tale Nudvip,EE,7.22,SDE,Data,Unplaced,Not Placed
+23EE10070,Tankasi Susritha,EE,7.3,SDE,Core_EE,Unplaced,Not Placed
+23EE10072,Tejas Kumar,EE,7.57,SDE,Data,Unplaced,Not Placed
+23EE10073,Thaleti Pothuraju Aaryan,EE,8.32,SDE,Core_EE,Unplaced,Not Placed
+23EE10074,Trinakshi Saha,EE,7.79,SDE,Core_EE,Unplaced,Not Placed
+23EE10075,Uppala Monish,EE,8.1,SDE,,Unplaced,Not Placed
+23EE10076,Vadithya Pradeep Nayak,EE,7.15,SDE,Data,Unplaced,Not Placed
+23EE10077,Vallakati Krishna Vamshi,EE,7.5,SDE,Data,Unplaced,Not Placed
+23EE10078,Vibhanshu Bhardwaj,EE,8.62,SDE,Core_EE,Unplaced,Not Placed
+23EE10079,Yenetala Adithya Ram,EE,7.79,SDE,Core_EE,Unplaced,Not Placed
+23EE10080,Aayush Srivastava,EE,8.35,SDE,Core_EE,Placed,Google_Core
+23EE10081,Harshil Jain,EE,8.53,SDE,CONSULTING,Placed,BAIN_Consulting
+23EE10082,Piyush Sarangi,EE,7.03,CONSULTING,Core_EE,Unplaced,Not Placed
+23EE10083,Uday Keshav,EE,7.97,SDE,Core_EE,Unplaced,Not Placed
+23EE10084,Kshitij Sachin Mehta,EE,8.58,SDE,Core_EE,Unplaced,Not Placed
+23EE10085,Saswat Padhy,EE,8.62,SDE,,Unplaced,Not Placed
+23EE10086,Shubham Raj,EE,8.31,Finance,Core_EE,Opted_Out,Not Placed
+23EE10087,Dinesh Kumar Mohanty,EE,8.37,CONSULTING,Core_EE,Unplaced,Not Placed
+23EE10088,Devansh Gupta,EE,7.74,SDE,Core_EE,Unplaced,Not Placed
+23EE10089,Simoni Sharma,EE,8.3,SDE,Data,Unplaced,Not Placed
+23EE10090,Atreya Bordoloi,EE,8.09,SDE,,Unplaced,Not Placed
+23EE10091,Anubhav Jha,EE,7.82,SDE,Core_EE,Unplaced,Not Placed
+23EE10092,Pallab Biswas,EE,7.75,SDE,Core_EE,Unplaced,Not Placed
+23EE10093,Yogesh Kushwaha,EE,8.72,SDE,,Opted_Out,Not Placed
+23EE10094,Amlan Abhijeet Sahu,EE,7.97,SDE,Core_EE,Unplaced,Not Placed
+23EE10095,Archana Goswami,EE,6.57,SDE,,Unplaced,Not Placed
+23EE10096,Aditya Kashyap,EE,8.57,SDE,Core_EE,Unplaced,Not Placed
+23EE10097,Chandrali Das,EE,8.28,SDE,,Unplaced,Not Placed
+23EE10098,Soham Pal,EE,7.94,Data,CONSULTING,Unplaced,Not Placed
+23EE10099,Yash Sachin Thosar,EE,8.47,SDE,,Unplaced,Not Placed
+23EX10001,Abhinav,EX,7.6,SDE,Core_EX,Unplaced,Not Placed
+23EX10002,Abhishek Singh,EX,8.98,SDE,Core_EX,Unplaced,Not Placed
+23EX10003,Anam Bera,EX,6.66,SDE,Core_EX,Unplaced,Not Placed
+23EX10004,Ansh Kumar,EX,8.12,SDE,Data,Unplaced,Not Placed
+23EX10005,Anupam Kumar Ravi,EX,7.22,SDE,Core_EX,Unplaced,Not Placed
+23EX10006,Arnav Bansal,EX,7.73,SDE,,Unplaced,Not Placed
+23EX10007,Aryan Srivastava,EX,8.94,SDE,,Unplaced,Not Placed
+23EX10009,Ayush Kumar,EX,8.08,SDE,Core_EX,Unplaced,Not Placed
+23EX10010,Chidambaram Balagudda,EX,7.64,CONSULTING,Core_EX,Unplaced,Not Placed
+23EX10011,Devansh Singh,EX,7.76,SDE,Core_EX,Unplaced,Not Placed
+23EX10012,Devendra Jeswani,EX,6.98,SDE,Core_EX,Unplaced,Not Placed
+23EX10013,Dhruv Varshney,EX,7.08,SDE,Core_EX,Unplaced,Not Placed
+23EX10014,Hitesh Kumawat,EX,7.37,SDE,Core_EX,Unplaced,Not Placed
+23EX10015,Jangam Rishitha,EX,8.29,SDE,Core_EX,Unplaced,Not Placed
+23EX10016,Kanika,EX,8.31,SDE,,Unplaced,Not Placed
+23EX10017,Madhushree Dujari,EX,7.94,SDE,,Unplaced,Not Placed
+23EX10018,Md Ghulam Yazdani,EX,9.03,Quant,SDE,Opted_Out,Not Placed
+23EX10019,Mintu Boro,EX,7.04,SDE,Data,Unplaced,Not Placed
+23EX10020,Mohit Kumar Chaturvedi,EX,7.36,SDE,Data,Unplaced,Not Placed
+23EX10021,Mrudul Mayank Mohanty,EX,8.12,SDE,Core_EX,Unplaced,Not Placed
+23EX10022,Nagdive Smit Ravindra,EX,7.85,SDE,Core_EX,Opted_Out,Not Placed
+23EX10023,Nilabrata Mondal,EX,6.65,SDE,Core_EX,Unplaced,Not Placed
+23EX10024,Nishant Kumar,EX,8.17,SDE,Data,Unplaced,Not Placed
+23EX10025,Petteli Sai Sri Chaithanya,EX,9.37,Quant,SDE,Unplaced,Not Placed
+23EX10026,Piyush Singh,EX,6.85,SDE,,Unplaced,Not Placed
+23EX10027,R Mohan Poornachandra,EX,8.37,SDE,Core_EX,Unplaced,Not Placed
+23EX10028,Rohit Bijarniya,EX,8.55,Data,Finance,Opted_Out,Not Placed
+23EX10029,Rohit Kamboj,EX,8.0,SDE,Core_EX,Unplaced,Not Placed
+23EX10030,S Mahil,EX,8.18,SDE,Data,Unplaced,Not Placed
+23EX10031,Sangekar Rajas Madhav,EX,8.09,SDE,Core_EX,Unplaced,Not Placed
+23EX10032,Shashi Bhushan Ekka,EX,7.65,SDE,Core_EX,Unplaced,Not Placed
+23EX10033,Shashwat Anand,EX,8.24,SDE,Core_EX,Unplaced,Not Placed
+23EX10034,Suhana Rawal,EX,7.14,SDE,Core_EX,Unplaced,Not Placed
+23EX10035,Sumit Kumar Chanda,EX,7.86,SDE,Core_EX,Unplaced,Not Placed
+23EX10036,Suryansh Pandey,EX,8.19,SDE,,Unplaced,Not Placed
+23EX10037,Swaraj Sharma,EX,8.3,SDE,Core_EX,Unplaced,Not Placed
+23EX10038,Tarun Mundhra,EX,8.27,SDE,Core_EX,Unplaced,Not Placed
+23EX10039,Tuhina Rai,EX,7.25,SDE,Core_EX,Unplaced,Not Placed
+23EX10040,Vaibhav Abhay Pachpor,EX,7.08,SDE,Core_EX,Opted_Out,Not Placed
+23EX10041,Vanshika Sonkar,EX,7.6,SDE,,Unplaced,Not Placed
+23EX10042,Vasu Singh,EX,7.86,SDE,Data,Unplaced,Not Placed
+23EX10043,Yedurada B M L N Raj Sekhar,EX,7.57,SDE,Data,Unplaced,Not Placed
+23PH10003,Adarsh Tiwari,PH,7.1,CONSULTING,Data,Unplaced,Not Placed
+23PH10004,Aditya Kumar,PH,7.88,SDE,Data,Unplaced,Not Placed
+23PH10006,Ankit Raj,PH,7.1,SDE,Data,Unplaced,Not Placed
+23PH10007,Anshuman Bhagat,PH,8.04,SDE,,Unplaced,Not Placed
+23PH10008,Anu Kumari,PH,8.35,SDE,Data,Unplaced,Not Placed
+23PH10009,Anustup Biswas,PH,7.01,SDE,Data,Unplaced,Not Placed
+23PH10010,Anwesha Barman,PH,6.81,SDE,Data,Unplaced,Not Placed
+23PH10011,B Pavan Kumar Thirupathi,PH,7.79,SDE,Data,Unplaced,Not Placed
+23PH10012,Banavath Sujith,PH,7.4,SDE,Data,Unplaced,Not Placed
+23PH10013,Bhoomik Modi,PH,7.07,Finance,Data,Unplaced,Not Placed
+23PH10014,Bhukya Mayavathi,PH,8.55,SDE,Data,Unplaced,Not Placed
+23PH10015,Bikram Gayen,PH,7.26,SDE,Data,Unplaced,Not Placed
+23PH10016,Chirag Sharma,PH,7.09,SDE,Data,Unplaced,Not Placed
+23PH10020,Dixit Anaya Atul,PH,8.87,SDE,Data,Unplaced,Not Placed
+23PH10021,Goel Joveya Fynadath,PH,7.87,SDE,Data,Unplaced,Not Placed
+23PH10022,Hardik Gadekar,PH,8.36,SDE,Data,Unplaced,Not Placed
+23PH10023,Himanshu Gour,PH,7.36,SDE,Finance,Unplaced,Not Placed
+23PH10024,Kajal Choudhary,PH,7.94,SDE,Data,Unplaced,Not Placed
+23PH10025,Kasibhatla Sri Madhurya,PH,7.28,SDE,Data,Unplaced,Not Placed
+23PH10026,Kshitij Agarwal,PH,8.27,SDE,Data,Unplaced,Not Placed
+23PH10027,Love Mehrotra,PH,7.25,SDE,Data,Unplaced,Not Placed
+23PH10028,Mudhjyeti Prabhas Kalyan,PH,8.16,SDE,Data,Unplaced,Not Placed
+23PH10029,Nikhil Pankaj Purohit,PH,9.7,Quant,SDE,Opted_Out,Not Placed
+23PH10030,Nikhil Siwach,PH,9.32,Quant,SDE,Unplaced,Not Placed
+23PH10031,Pochampally Saketh,PH,8.32,CONSULTING,Data,Unplaced,Not Placed
+23PH10032,Pramod Kumar,PH,7.65,SDE,Data,Unplaced,Not Placed
+23PH10034,Rishit Raj Singh,PH,8.05,SDE,Data,Unplaced,Not Placed
+23PH10036,Sanjay R J,PH,7.3,Finance,Data,Unplaced,Not Placed
+23PH10037,Shanullah Khan,PH,8.93,SDE,,Unplaced,Not Placed
+23PH10039,Shradha,PH,8.25,SDE,Data,Unplaced,Not Placed
+23PH10041,Shubham Sundariwal,PH,6.26,Finance,SDE,Unplaced,Not Placed
+23PH10042,Sikha Harsha Vardhan,PH,6.68,SDE,Data,Unplaced,Not Placed
+23PH10043,Sodadasi Jason,PH,6.66,SDE,,Unplaced,Not Placed
+23PH10044,Soudipta Koley,PH,8.48,SDE,Data,Opted_Out,Not Placed
+23PH10045,Souradeep Chakraborty,PH,8.2,SDE,,Unplaced,Not Placed
+23PH10047,Vijay Chouhan,PH,7.04,CONSULTING,SDE,Unplaced,Not Placed
+23PH10048,Yash Agarwal,PH,7.85,SDE,Data,Unplaced,Not Placed
+23PH10049,Yash Khot,PH,8.27,SDE,Data,Unplaced,Not Placed
+23PH10050,Yechuri Sathwika,PH,6.78,SDE,Data,Unplaced,Not Placed
+22GG10002,Abhinav Aaryan,GG,9.58,Quant,SDE,Opted_Out,Not Placed
+22GG10013,Bhagya Jyothi D,GG,7.78,SDE,Core_GG,Unplaced,Not Placed
+22GG10042,Shandar Modabbir,GG,8.34,SDE,Core_GG,Unplaced,Not Placed
+22GG23011,Diya Sharma,GG,8.49,SDE,,Unplaced,Not Placed
+23GG10001,Adarsh Singh,GG,7.99,SDE,,Unplaced,Not Placed
+23GG10002,Aditya Ghandge,GG,8.59,SDE,Core_GG,Unplaced,Not Placed
+23GG10003,Akshat Tripathi,GG,8.77,SDE,Data,Opted_Out,Not Placed
+23GG10004,Arghyadip Pal,GG,6.65,SDE,,Unplaced,Not Placed
+23GG10005,Aryan Kandpal,GG,8.37,SDE,,Unplaced,Not Placed
+23GG10007,Avipriti Rai,GG,7.33,SDE,,Opted_Out,Not Placed
+23GG10008,Bhukya Koushik Nayak,GG,7.06,SDE,,Unplaced,Not Placed
+23GG10009,Bhukya Pravalika,GG,8.15,SDE,,Unplaced,Not Placed
+23GG10010,Brajesh Kumar Patel,GG,6.7,SDE,Data,Unplaced,Not Placed
+23GG10011,Chirayu Chaurasia,GG,8.49,SDE,,Unplaced,Not Placed
+23GG10013,Dhimant Kumar Sahoo,GG,7.55,SDE,Data,Unplaced,Not Placed
+23GG10015,Dhruv Prajapat,GG,7.23,SDE,,Unplaced,Not Placed
+23GG10017,Divyansh Jain,GG,7.03,Data,CONSULTING,Unplaced,Not Placed
+23GG10018,Hardik Kaurav,GG,7.16,SDE,,Unplaced,Not Placed
+23GG10020,Harsh Gurjar,GG,7.46,SDE,,Unplaced,Not Placed
+23GG10021,Kajal Kumari,GG,8.9,Data,Finance,Placed,JPMC_Finance
+23GG10022,Kavyan Hiren Shah,GG,7.82,SDE,Data,Unplaced,Not Placed
+23GG10023,Kratika Jasuja,GG,8.55,SDE,Data,Unplaced,Not Placed
+23GG10024,Krish Goel,GG,8.08,SDE,Core_GG,Unplaced,Not Placed
+23GG10026,Kuthuru Rushika Reddy,GG,7.71,SDE,,Unplaced,Not Placed
+23GG10027,Lavudya Karunakar,GG,7.68,SDE,Core_GG,Unplaced,Not Placed
+23GG10028,Md Shahzain Misbah,GG,8.0,Finance,Core_GG,Unplaced,Not Placed
+23GG10029,Muchhumari Santhosh Kumar,GG,8.33,CONSULTING,Core_GG,Unplaced,Not Placed
+23GG10030,Muhammadh Umar N,GG,7.17,SDE,Core_GG,Unplaced,Not Placed
+23GG10032,Neel Avinash Kotkar,GG,8.91,SDE,Core_GG,Opted_Out,Not Placed
+23GG10033,Nishan Mandal,GG,7.42,SDE,,Opted_Out,Not Placed
+23GG10034,Patil Yash Nanasaheb,GG,8.52,CONSULTING,Core_GG,Opted_Out,Not Placed
+23GG10035,Poreddy Ashish Reddy,GG,6.78,SDE,Data,Unplaced,Not Placed
+23GG10037,Prathmesh Bamane,GG,8.27,SDE,Core_GG,Unplaced,Not Placed
+23GG10039,Rudra Biswas,GG,8.6,SDE,Core_GG,Unplaced,Not Placed
+23GG10041,Samriddhi Ahuja,GG,6.71,SDE,Core_GG,Unplaced,Not Placed
+23GG10042,Sarth Pohare,GG,8.18,SDE,Core_GG,Unplaced,Not Placed
+23GG10043,Shreysi,GG,7.54,SDE,,Unplaced,Not Placed
+23GG10044,Shubhanshi Jaiswal,GG,8.16,SDE,Core_GG,Unplaced,Not Placed
+23GG10045,Sunil Bishnoi,GG,7.78,SDE,Data,Unplaced,Not Placed
+23GG10046,Tanishq Suresh Gharat,GG,8.29,SDE,CONSULTING,Unplaced,Not Placed
+23GG10047,Uday Bhan Singh,GG,8.22,SDE,Core_GG,Unplaced,Not Placed
+23GG10048,Utkarsh Verma,GG,7.79,SDE,,Unplaced,Not Placed
+23GG10049,Vikash,GG,8.01,SDE,Core_GG,Opted_Out,Not Placed
+23GG10050,Vishal Kumar,GG,7.94,SDE,Core_GG,Unplaced,Not Placed
+23GG10051,Vislavath Rahul Sai,GG,7.33,SDE,,Unplaced,Not Placed
+23GG5PE01,Sachin,GG,7.66,SDE,Core_GG,Unplaced,Not Placed
+23GG5PE02,Kumar Yuvraj,GG,6.99,SDE,Core_GG,Unplaced,Not Placed
+23EC10001,Aaditya Verma,EC,7.74,CONSULTING,Core_EC,Unplaced,Not Placed
+23EC10002,Abhay Mishra,EC,6.97,SDE,Core_EC,Unplaced,Not Placed
+23EC10003,Abhishek Parihar,EC,8.11,SDE,Core_EC,Opted_Out,Not Placed
+23EC10004,Aditi Choudhary,EC,7.5,SDE,Data,Unplaced,Not Placed
+23EC10005,Aditya Sharma,EC,8.14,SDE,,Unplaced,Not Placed
+23EC10006,Akella Satya Hanuma Saketh,EC,7.72,SDE,Data,Unplaced,Not Placed
+23EC10007,Alugubelly Dhana Shyam Reddy,EC,7.81,SDE,Core_EC,Unplaced,Not Placed
+23EC10008,Anirban Maji,EC,7.42,CONSULTING,Core_EC,Unplaced,Not Placed
+23EC10009,Annamareddy Sai Rama Karthikeya,EC,7.89,SDE,Core_EC,Unplaced,Not Placed
+23EC10010,Annapureddy Vikhram Reddy,EC,8.71,SDE,Core_EC,Unplaced,Not Placed
+23EC10011,Arghyajyoti Ghosh,EC,7.63,SDE,Core_EC,Unplaced,Not Placed
+23EC10012,Arka Das,EC,8.92,SDE,,Placed,Adobe_SDE
+23EC10013,Arnab Das,EC,8.49,SDE,Data,Placed,Stripe_Data
+23EC10014,Arumilli Thanvi Sree,EC,7.94,Data,CONSULTING,Unplaced,Not Placed
+23EC10015,Asmit Chauhan,EC,8.24,SDE,Data,Placed,Stripe_Data
+23EC10016,Atul Pandey,EC,8.35,SDE,,Placed,Google_Core
+23EC10017,Avijit Sahana,EC,7.43,SDE,,Unplaced,Not Placed
+23EC10018,Banoth Nithish Kumar,EC,8.09,SDE,Core_EC,Unplaced,Not Placed
+23EC10019,Bulla Deepak Jeswi,EC,8.53,SDE,,Unplaced,Not Placed
+23EC10020,Chandan Karmakar,EC,6.63,CONSULTING,Core_EC,Unplaced,Not Placed
+23EC10022,Dharavath Prathwik Naik,EC,8.96,CONSULTING,Core_EC,Placed,BAIN_Consulting
+23EC10024,Gadasandula Vijaya Bhavani,EC,8.19,SDE,Core_EC,Unplaced,Not Placed
+23EC10025,Ganta Harshavardhan,EC,8.48,SDE,Core_EC,Unplaced,Not Placed
+23EC10027,Gorripati Jaya Chandra Venkata Abhinay,EC,7.61,SDE,Core_EC,Unplaced,Not Placed
+23EC10028,Guggilla Priya,EC,8.24,SDE,Core_EC,Unplaced,Not Placed
+23EC10029,Himani Chunduru,EC,8.66,SDE,,Placed,Google_Core
+23EC10030,Himesh Kundal,EC,8.82,SDE,Core_EC,Unplaced,Not Placed
+23EC10031,Jai Raj,EC,8.48,SDE,Core_EC,Unplaced,Not Placed
+23EC10032,Julakanti Manvitha Reddy,EC,7.58,SDE,Core_EC,Unplaced,Not Placed
+23EC10033,Kartik Kaushal,EC,7.68,SDE,Core_EC,Unplaced,Not Placed
+23EC10034,Karumuri Ram Sanjay,EC,8.35,SDE,,Unplaced,Not Placed
+23EC10035,Kesamreddy Yedukondala Yashwanth Reddy,EC,7.95,SDE,Core_EC,Unplaced,Not Placed
+23EC10036,Kolipaka Navadeep,EC,9.84,Quant,SDE,Placed,Quadeye_Quant
+23EC10037,Kuna Kishore Venkat Sai,EC,7.99,SDE,Core_EC,Unplaced,Not Placed
+23EC10038,Lingala Sai Sri Vardhan Reddy,EC,6.73,Finance,Core_EC,Unplaced,Not Placed
+23EC10039,M Amritavarshini,EC,9.45,Quant,SDE,Placed,DE Shaw & Co_SDE
+23EC10040,M Trivikram Pai,EC,8.9,SDE,,Unplaced,Not Placed
+23EC10041,Madhavaram Kethan,EC,8.68,CONSULTING,Core_EC,Unplaced,Not Placed
+23EC10042,Malothu Luther King,EC,9.41,Quant,SDE,Placed,Graviton Research Capital_Quant
+23EC10043,Manmath Mishra,EC,6.98,SDE,Core_EC,Unplaced,Not Placed
+23EC10044,Melvin Biju,EC,8.82,SDE,Core_EC,Unplaced,Not Placed
+23EC10045,Meravath Balachandar,EC,7.29,SDE,,Unplaced,Not Placed
+23EC10046,Mummidi Sri Sai Karthik Pranav,EC,7.0,SDE,Data,Unplaced,Not Placed
+23EC10047,Munjeti Sai Praneeth,EC,8.19,SDE,Data,Unplaced,Not Placed
+23EC10048,Murikipudi Sisira,EC,7.39,SDE,Core_EC,Unplaced,Not Placed
+23EC10049,Nagaruru Revanth Reddy,EC,7.82,Data,CONSULTING,Unplaced,Not Placed
+23EC10050,Naguru Sai Manoj Bhargav,EC,7.24,SDE,Core_EC,Unplaced,Not Placed
+23EC10051,Nalla Sathvik,EC,7.94,SDE,Data,Unplaced,Not Placed
+23EC10052,P Vamshi Krishna,EC,8.8,SDE,Data,Placed,Google_Core
+23EC10053,Padamata Raghu Vamsi,EC,8.38,SDE,Data,Unplaced,Not Placed
+23EC10054,Padavala Abhiram,EC,8.99,SDE,Core_EC,Placed,Google_Core
+23EC10055,Palak Agarwal,EC,7.75,SDE,Core_EC,Opted_Out,Not Placed
+23EC10057,Pallerla Ubhayendra Sai,EC,9.03,Quant,SDE,Placed,Google_SDE
+23EC10058,Payyavula Veera Venkata Sai Srinivas,EC,8.64,SDE,Core_EC,Unplaced,Not Placed
+23EC10059,Peddinti Vineetha Padma,EC,7.26,SDE,Core_EC,Unplaced,Not Placed
+23EC10060,Pithani Mohith Sai Satya,EC,8.51,Data,CONSULTING,Placed,Adobe_Data
+23EC10061,Polisetti Ganga Manohar,EC,7.57,SDE,Core_EC,Unplaced,Not Placed
+23EC10062,Ponnekanti Varun,EC,8.17,SDE,,Unplaced,Not Placed
+23EC10063,Prajwal Magadum,EC,7.98,SDE,,Unplaced,Not Placed
+23EC10064,Prataya Mistry,EC,7.08,SDE,Core_EC,Unplaced,Not Placed
+23EC10066,Ramaraju Sai Pranav Murari,EC,8.32,SDE,Data,Placed,Google_Core
+23EC10067,Rishant Mallick,EC,8.08,SDE,Core_EC,Unplaced,Not Placed
+23EC10068,Rishith Susarla,EC,7.59,SDE,Data,Unplaced,Not Placed
+23EC10069,Robiattam N. Marak,EC,8.6,SDE,Core_EC,Opted_Out,Not Placed
+23EC10070,S K Avinash Pranao,EC,7.47,SDE,,Unplaced,Not Placed
+23EC10071,Sanepalli Lokesh Kumar Reddy,EC,6.75,SDE,Core_EC,Unplaced,Not Placed
+23EC10072,Shanit Singhal,EC,8.65,SDE,Data,Unplaced,Not Placed
+23EC10073,Shibashis Das,EC,8.89,SDE,CONSULTING,Placed,BAIN_Consulting
+23EC10075,Singa Reddy Teja Sai Eswar Reddy,EC,8.16,Data,Finance,Placed,Morgan Stanley_Data
+23EC10076,Sirigineedi Harshita Phani Surya Anshu,EC,7.66,SDE,Core_EC,Unplaced,Not Placed
+23EC10077,Soma Jyothi Swaroop Reddy,EC,7.07,SDE,Core_EC,Unplaced,Not Placed
+23EC10078,Sounak Saha,EC,8.79,SDE,,Opted_Out,Not Placed
+23EC10079,Subhajit Sarkar,EC,9.44,Quant,SDE,Placed,Graviton Research Capital_SDE
+23EC10080,Telugu Tharun Kumar,EC,7.42,SDE,,Unplaced,Not Placed
+23EC10081,Thatisetti Sai Vivek,EC,8.11,CONSULTING,Core_EC,Unplaced,Not Placed
+23EC10082,Utkarsh Anand,EC,7.22,SDE,Core_EC,Opted_Out,Not Placed
+23EC10083,Utsav Agarwal,EC,8.24,SDE,,Unplaced,Not Placed
+23EC10084,Vaddadi Sri Surya Gunwanth,EC,8.71,SDE,,Placed,Adobe_SDE
+23EC10085,Vadla Sai Krishna,EC,8.85,Data,CONSULTING,Placed,Adobe_Data
+23EC10087,Vasavi Nenavath,EC,9.66,Quant,SDE,Placed,Rubrik_SDE
+23EC10088,Vedium Jahnavi Reddy,EC,6.76,SDE,Core_EC,Unplaced,Not Placed
+23EC10089,Vennela Keerthana,EC,8.74,SDE,Data,Unplaced,Not Placed
+23EC10090,Yarramsetti Sharon,EC,8.21,SDE,Core_EC,Unplaced,Not Placed
+23EC10091,Fazal Hayat Khan,EC,8.58,SDE,Core_EC,Placed,Google_Core
+23EC10092,Saksham Aggarwal,EC,8.59,SDE,,Unplaced,Not Placed
+23EC10093,Sumit Mukherjee,EC,8.0,SDE,Core_EC,Unplaced,Not Placed
+23EC10094,Abhinav Kumar Jha,EC,8.6,SDE,,Unplaced,Not Placed
+23EC10095,Aditya Srivastava,EC,6.85,SDE,Data,Unplaced,Not Placed
+23EC10096,Kumar Sujal,EC,7.26,SDE,Core_EC,Unplaced,Not Placed
+23EC10097,Sodisetty Rahul Koushik,EC,7.43,SDE,Core_EC,Unplaced,Not Placed
+23EC10098,Syed Nasif Hossain,EC,8.88,SDE,,Opted_Out,Not Placed
+23EC10099,Avik Ghosh,EC,7.4,SDE,CONSULTING,Unplaced,Not Placed
+23EC10100,Debarshi Basak,EC,8.63,SDE,Core_EC,Unplaced,Not Placed
+23EC10101,Sanjay R,EC,8.05,SDE,Core_EC,Unplaced,Not Placed
+23EC10102,Hardik Jagga,EC,8.34,CONSULTING,Core_EC,Unplaced,Not Placed
+23AE10001,Aanantha Krishnan N,AE,8.15,Data,CONSULTING,Unplaced,Not Placed
+23AE10002,Aastha Jhunjhunwala,AE,8.75,SDE,Data,Unplaced,Not Placed
+23AE10003,Abhinash Jimey,AE,8.43,SDE,,Unplaced,Not Placed
+23AE10004,Amey Kamble,AE,7.15,SDE,Core_AE,Unplaced,Not Placed
+23AE10005,Amlan Sarkar,AE,7.92,SDE,Core_AE,Opted_Out,Not Placed
+23AE10006,Annu Chaurasiya,AE,8.1,SDE,Data,Opted_Out,Not Placed
+23AE10007,Arnab Jena,AE,7.29,SDE,,Unplaced,Not Placed
+23AE10009,Aryan Verma,AE,7.53,Finance,Core_AE,Unplaced,Not Placed
+23AE10010,Dadala Heavenly,AE,7.21,SDE,Data,Unplaced,Not Placed
+23AE10012,Deepak Kumar Singh,AE,9.55,Quant,SDE,Unplaced,Not Placed
+23AE10013,Gorantla Vijay Kumar,AE,6.89,SDE,Data,Unplaced,Not Placed
+23AE10014,Gururaj Khurd,AE,7.29,SDE,Core_AE,Unplaced,Not Placed
+23AE10015,Ishan Amit Phanse,AE,8.12,Data,Finance,Unplaced,Not Placed
+23AE10016,Katravath Sanjeev,AE,9.12,Quant,SDE,Unplaced,Not Placed
+23AE10017,Kevin Jais,AE,8.48,SDE,Data,Unplaced,Not Placed
+23AE10018,Machavolu Venkata Sushanth,AE,8.5,SDE,Data,Unplaced,Not Placed
+23AE10019,Madure Parth Prashant,AE,8.17,SDE,Data,Unplaced,Not Placed
+23AE10020,Maloth Chakradhar,AE,7.7,SDE,Core_AE,Unplaced,Not Placed
+23AE10022,Nandini Sanavda,AE,7.67,SDE,Data,Unplaced,Not Placed
+23AE10023,Panasa Pranav Kumar,AE,7.41,SDE,Core_AE,Unplaced,Not Placed
+23AE10024,Pawan Sharma,AE,8.5,SDE,Data,Opted_Out,Not Placed
+23AE10025,Pranamya G H,AE,7.43,SDE,,Unplaced,Not Placed
+23AE10026,Pranav Velpula,AE,8.99,SDE,Data,Unplaced,Not Placed
+23AE10027,Pratyush Mishra,AE,8.24,Finance,Core_AE,Unplaced,Not Placed
+23AE10028,Pratyush Singh,AE,8.81,SDE,,Unplaced,Not Placed
+23AE10029,Sadhu Venkata Maneesh Mohan Ku,AE,8.83,SDE,Core_AE,Unplaced,Not Placed
+23AE10030,Sai Palani Kumar Gomathi Sankar,AE,7.88,CONSULTING,Core_AE,Unplaced,Not Placed
+23AE10031,Satwik Midya,AE,7.71,SDE,,Unplaced,Not Placed
+23AE10032,Shreyash Sahu,AE,7.9,SDE,,Unplaced,Not Placed
+23AE10033,Shrreya Rajneesh,AE,8.64,SDE,Data,Unplaced,Not Placed
+23AE10035,Talari Chagi Bestha Manjunath,AE,8.78,SDE,Core_AE,Unplaced,Not Placed
+23AE10036,Talla Sritan Reddy,AE,8.24,Finance,Core_AE,Unplaced,Not Placed
+23AE10037,Tanuja Kumari Bhuyan,AE,6.64,SDE,Data,Unplaced,Not Placed
+23AE10038,Trivikram Trishir Rao Padala,AE,7.16,SDE,Data,Unplaced,Not Placed
+23AE10039,Varthyavath Naveen,AE,7.4,SDE,Data,Unplaced,Not Placed
+23AE10040,Vedaant Gupta,AE,7.99,SDE,Data,Unplaced,Not Placed
+23AE10041,Vekariya Viraj Parbatbhai,AE,8.85,SDE,Core_AE,Unplaced,Not Placed
+23AE10042,Vellore Kushal Raj,AE,6.59,SDE,Data,Unplaced,Not Placed
+23AE10043,Viswasarathi N M,AE,7.53,SDE,,Unplaced,Not Placed
+23AE10044,Vatsal Sethi,AE,8.8,SDE,,Unplaced,Not Placed
+23AE10045,Pranjal Pathak,AE,7.29,SDE,,Unplaced,Not Placed
+23AE10047,Daksh Gupta,AE,8.09,SDE,Data,Unplaced,Not Placed
+23AE10048,Deepak G,AE,7.95,SDE,Data,Unplaced,Not Placed
+23MA10001,Adarsh Pandey,MA,8.14,SDE,Data,Unplaced,Not Placed
+23MA10002,Aditi Garg,MA,7.82,SDE,Data,Unplaced,Not Placed
+23MA10003,Aditya Kariwal,MA,9.07,Quant,SDE,Opted_Out,Not Placed
+23MA10005,Akash Kumar,MA,7.66,SDE,Data,Unplaced,Not Placed
+23MA10006,Akshat Jiwrajka,MA,9.49,Quant,SDE,Placed,Nomura_QUANT
+23MA10007,Aniket Safui,MA,9.74,Quant,SDE,Placed,Quadeye_Quant
+23MA10008,Ankana Pari,MA,8.02,SDE,Data,Placed,Stripe_Data
+23MA10009,Anurag Kumar Singh,MA,8.74,SDE,,Unplaced,Not Placed
+23MA10010,Appari Jaideep Sreevas,MA,7.92,SDE,Data,Unplaced,Not Placed
+23MA10011,Argha Sarkar,MA,7.74,SDE,Data,Unplaced,Not Placed
+23MA10012,Arif Hussain,MA,9.39,Quant,SDE,Placed,American Express_SDE
+23MA10013,Arpan,MA,8.87,SDE,,Opted_Out,Not Placed
+23MA10014,Arunangshu Karmakar,MA,7.67,SDE,Data,Unplaced,Not Placed
+23MA10015,Aryan Kumar Singh,MA,8.16,SDE,Data,Unplaced,Not Placed
+23MA10016,Aryan Raina,MA,9.31,Quant,SDE,Placed,American Express_SDE
+23MA10018,Badavath Uday Bhanu Prakash,MA,9.85,Quant,SDE,Placed,Alphagrep_SDE
+23MA10019,Bobba Varshini Reddy,MA,8.36,SDE,Data,Unplaced,Not Placed
+23MA10020,Dasari Kuladeep,MA,8.31,SDE,,Unplaced,Not Placed
+23MA10021,Gurugubelli Sahithi Priya,MA,9.28,Quant,SDE,Placed,JPMC_Quant
+23MA10022,Harsh Sharma,MA,8.47,SDE,,Unplaced,Not Placed
+23MA10023,Indrajit Mandi,MA,8.43,SDE,,Unplaced,Not Placed
+23MA10024,Isha Mohanlal Raut,MA,8.62,Data,CONSULTING,Placed,Morgan Stanley_Data
+23MA10025,Kadam Asmita Ramrao,MA,8.45,CONSULTING,SDE,Opted_Out,Not Placed
+23MA10026,Kalla Nikhil,MA,8.09,Data,CONSULTING,Unplaced,Not Placed
+23MA10027,Kandagatla Jeevan,MA,9.05,Quant,SDE,Placed,Optiver_Quant
+23MA10028,Kanneboina Shashank,MA,8.09,SDE,,Unplaced,Not Placed
+23MA10029,Krish Shekhar,MA,6.92,SDE,CONSULTING,Opted_Out,Not Placed
+23MA10030,Kshitij Roy,MA,6.86,Data,CONSULTING,Unplaced,Not Placed
+23MA10032,Manish Kundu,MA,7.73,SDE,Data,Unplaced,Not Placed
+23MA10034,Nalla Sravani,MA,8.48,SDE,Data,Placed,Stripe_Data
+23MA10035,Namah Shivmoorat Kushwaha,MA,7.12,SDE,,Unplaced,Not Placed
+23MA10036,Nayandeep Deb,MA,6.83,SDE,Finance,Unplaced,Not Placed
+23MA10037,Nenavath Jeevan,MA,8.6,SDE,Data,Unplaced,Not Placed
+23MA10038,Nishad Dilip Gaikwad,MA,9.7,Quant,SDE,Placed,Graviton Research Capital_SDE
+23MA10039,Nitin Kumar,MA,7.86,SDE,Data,Unplaced,Not Placed
+23MA10040,Oindrila Singha,MA,7.39,CONSULTING,Data,Unplaced,Not Placed
+23MA10041,Parth Patel,MA,8.72,CONSULTING,SDE,Opted_Out,Not Placed
+23MA10042,Patel Rimi Amitkumar,MA,9.02,Quant,SDE,Unplaced,Not Placed
+23MA10043,Patil Adarsh Satappa,MA,7.32,CONSULTING,Data,Unplaced,Not Placed
+23MA10044,Polisetti Surya Venkata Mahesh,MA,7.35,CONSULTING,SDE,Unplaced,Not Placed
+23MA10045,Potnuru Gnaneswara Rao,MA,8.62,SDE,,Unplaced,Not Placed
+23MA10046,Prabhat Kumar,MA,7.32,SDE,Data,Unplaced,Not Placed
+23MA10047,Prabhat Kumar,MA,9.25,Quant,SDE,Placed,Goldman Sachs(GS)_Quant
+23MA10048,Pratyush Dash,MA,8.92,SDE,Data,Placed,Goldman Sachs(GS)_Data
+23MA10049,Puchakayala Rahul,MA,9.54,Quant,SDE,Placed,Microsoft_Software Development
+23MA10050,Rajput Tejas Sushil,MA,9.12,Quant,SDE,Placed,Amazon_SDE
+23MA10051,Raman Raj,MA,9.24,Quant,SDE,Placed,Graviton Research Capital_SDE
+23MA10052,Rohan Anvekar,MA,7.17,SDE,Data,Unplaced,Not Placed
+23MA10053,Rudraraju Tejaswi,MA,9.43,Quant,SDE,Placed,Rubrik_SDE
+23MA10054,Samar Mahfooz,MA,9.35,Quant,SDE,Placed,Amazon_SDE
+23MA10055,Sandip Das,MA,8.34,SDE,,Unplaced,Not Placed
+23MA10056,Shantanu Santosh Gotarkar,MA,8.32,SDE,,Opted_Out,Not Placed
+23MA10057,Shreyan Ray,MA,7.11,SDE,Data,Unplaced,Not Placed
+23MA10058,Soham Kishor Kothawade,MA,8.45,SDE,Data,Placed,Amazon_SDE
+23MA10059,Sudhanshu,MA,7.59,SDE,Data,Unplaced,Not Placed
+23MA10060,Sunnapu Siddhartha,MA,7.08,CONSULTING,SDE,Unplaced,Not Placed
+23MA10061,Suzal Kori,MA,7.69,SDE,CONSULTING,Unplaced,Not Placed
+23MA10062,Swastik Verma,MA,7.95,SDE,,Unplaced,Not Placed
+23MA10063,Talari Praneeth Sai Kesava Balaji,MA,9.8,Quant,SDE,Placed,Samsung_SDE
+23MA10065,Tushar Gupta,MA,8.25,CONSULTING,Data,Unplaced,Not Placed
+23MA10066,Ujjwal Jain,MA,8.37,SDE,,Unplaced,Not Placed
+23MA10068,Vanshdeep,MA,8.76,Finance,Data,Placed,Morgan Stanley_Data
+23MA10069,Varada Ritish,MA,7.67,SDE,Data,Unplaced,Not Placed
+23MA10070,Vedanshi Panda,MA,8.19,SDE,Data,Unplaced,Not Placed
+23MA10071,Pranjali Nagendra Mane,MA,6.75,SDE,Data,Unplaced,Not Placed
+23MA10072,Aditya Ghosh,MA,7.55,CONSULTING,Data,Unplaced,Not Placed
+23MA10073,Aryan Lohia,MA,8.2,SDE,Data,Unplaced,Not Placed
+23MA10074,Pranjal Malpani,MA,8.28,SDE,,Unplaced,Not Placed
+23MA10075,Akshat Singhal,MA,9.65,Quant,SDE,Placed,Alphagrep_SDE
+23MA10076,Aaryan Singh Bist,MA,7.35,CONSULTING,SDE,Unplaced,Not Placed
+23MA10077,Harshwardhan Megharaj Walunjkar,MA,8.09,SDE,Data,Opted_Out,Not Placed
+23MA10078,Siddharth Nema,MA,7.4,SDE,Data,Unplaced,Not Placed
+23MA10079,Akshit Das,MA,8.75,SDE,Data,Placed,Adobe_Data
+23MA10080,Aadarsh Jha,MA,8.75,CONSULTING,SDE,Placed,BCG_Consulting
+23AG10001,Aakriti Kumari,AG,7.54,SDE,Data,Unplaced,Not Placed
+23AG10002,Aayush Jha,AG,8.67,SDE,Data,Unplaced,Not Placed
+23AG10004,Adit Jhanwar,AG,8.27,SDE,,Unplaced,Not Placed
+23AG10005,Aditya Navin Nigam,AG,9.08,Quant,SDE,Unplaced,Not Placed
+23AG10006,Akshat Garg,AG,7.95,Finance,Data,Unplaced,Not Placed
+23AG10007,Aninda Bera,AG,6.57,SDE,Data,Opted_Out,Not Placed
+23AG10008,Anivesh Parida,AG,8.65,SDE,Data,Unplaced,Not Placed
+23AG10009,Ankit Kuri,AG,9.04,Quant,SDE,Unplaced,Not Placed
+23AG10010,Archisha Ahuja,AG,7.7,SDE,,Unplaced,Not Placed
+23AG10011,Archit Kumar Mawandia,AG,7.37,SDE,,Unplaced,Not Placed
+23AG10014,Bidisha Khakhlary,AG,6.98,SDE,,Unplaced,Not Placed
+23AG10015,Budida Abhinav,AG,9.9,Quant,SDE,Unplaced,Not Placed
+23AG10016,Dhruv Gaur,AG,8.05,SDE,,Unplaced,Not Placed
+23AG10017,Ganesh Vasuniya,AG,9.41,Quant,SDE,Unplaced,Not Placed
+23AG10018,Jadhav Swaraj Hemant,AG,8.27,SDE,,Unplaced,Not Placed
+23AG10019,Kaling Tayeng,AG,8.19,SDE,CONSULTING,Unplaced,Not Placed
+23AG10020,Kamble Tejas Sominath,AG,8.41,SDE,,Unplaced,Not Placed
+23AG10021,Kanchan,AG,9.47,Quant,SDE,Unplaced,Not Placed
+23AG10022,Krishna Dargarh,AG,7.9,SDE,,Unplaced,Not Placed
+23AG10023,Kshitij Anilkumar Kamble,AG,7.06,SDE,Data,Unplaced,Not Placed
+23AG10024,Mahaveer,AG,6.48,SDE,Data,Unplaced,Not Placed
+23AG10025,Mahek Sharda,AG,8.94,SDE,Data,Unplaced,Not Placed
+23AG10026,Mohit Bhilala,AG,8.17,SDE,Data,Unplaced,Not Placed
+23AG10027,Nagendla Komali,AG,8.2,CONSULTING,SDE,Unplaced,Not Placed
+23AG10028,Nirmal Patidar,AG,7.65,SDE,Data,Unplaced,Not Placed
+23AG10030,Parmar Meetkumar Balubhai,AG,8.95,SDE,Data,Unplaced,Not Placed
+23AG10032,Rajvardhan Gajanan Padghan,AG,7.65,SDE,Data,Unplaced,Not Placed
+23AG10034,Ritesh Kumar,AG,8.27,SDE,,Unplaced,Not Placed
+23AG10035,Rohan,AG,7.73,SDE,,Unplaced,Not Placed
+23AG10036,Rohan Prakash Sahu,AG,8.42,SDE,Data,Unplaced,Not Placed
+23AG10037,Sachin Gautamchand Maloo,AG,6.82,SDE,Data,Unplaced,Not Placed
+23AG10039,Somesh Gupta,AG,7.46,Data,CONSULTING,Unplaced,Not Placed
+23AG10040,Sonu Kumar,AG,7.25,SDE,Data,Unplaced,Not Placed
+23AG10041,Sri Raghav Tanikella,AG,8.62,SDE,Data,Unplaced,Not Placed
+23AG10042,Sridevi C,AG,9.68,Quant,SDE,Unplaced,Not Placed
+23AG10043,Srijan Kumar,AG,8.46,SDE,CONSULTING,Unplaced,Not Placed
+23AG10044,Suman Saurav,AG,7.58,SDE,Data,Unplaced,Not Placed
+23AG10045,Ujjwal Sharma,AG,7.54,SDE,Data,Unplaced,Not Placed
+23AG10046,Vaibhav Goyal,AG,7.6,SDE,CONSULTING,Unplaced,Not Placed
+23AG10049,Deepjoy Das,AG,7.96,SDE,Data,Unplaced,Not Placed
+23BT30052,Suvro Bag,BT,8.59,SDE,Data,Unplaced,Not Placed
+23BT10001,Abhay Singh Rana,BT,7.41,SDE,Data,Unplaced,Not Placed
+23BT10002,Akshara Sankranthi,BT,8.55,SDE,Data,Unplaced,Not Placed
+23BT10003,Anirban Pal,BT,6.8,SDE,Data,Unplaced,Not Placed
+23BT10006,Arvind Meena,BT,6.4,SDE,Data,Unplaced,Not Placed
+23BT10007,Azhar Ul Shamus,BT,8.23,SDE,Data,Unplaced,Not Placed
+23BT10008,Bhanvi Kumar,BT,8.16,SDE,,Unplaced,Not Placed
+23BT10009,Bijaya Kumar Behera,BT,8.07,SDE,Data,Unplaced,Not Placed
+23BT10010,Daksh Yadav,BT,6.93,SDE,Data,Unplaced,Not Placed
+23BT10011,Divya Jain,BT,7.93,SDE,Data,Unplaced,Not Placed
+23BT10012,Eshanika Dey,BT,8.03,SDE,Data,Unplaced,Not Placed
+23BT10014,Ishan Singh,BT,8.93,SDE,Data,Unplaced,Not Placed
+23BT10015,Ishansh Yadav,BT,7.57,SDE,Data,Opted_Out,Not Placed
+23BT10016,Komarapu Balaji Rao,BT,8.61,SDE,Data,Unplaced,Not Placed
+23BT10017,Kushal Lokesh,BT,7.63,CONSULTING,Data,Unplaced,Not Placed
+23BT10018,Lalit Kumar,BT,7.93,CONSULTING,Data,Unplaced,Not Placed
+23BT10019,Manas Veervrat Gupta,BT,6.85,SDE,,Unplaced,Not Placed
+23BT10020,Mittagadagula Poojitha,BT,8.3,SDE,Data,Unplaced,Not Placed
+23BT10021,Moulik Mishra,BT,7.07,SDE,Data,Unplaced,Not Placed
+23BT10023,Pochiraju Kailash Ram Markandeya Sha,BT,7.81,SDE,Data,Unplaced,Not Placed
+23BT10024,Pragna Sree Vavilipalli,BT,7.5,SDE,,Opted_Out,Not Placed
+23BT10027,Prateek,BT,7.49,Finance,Data,Unplaced,Not Placed
+23BT10028,Prithwish Basak,BT,7.1,SDE,Data,Opted_Out,Not Placed
+23BT10029,Rahul,BT,8.28,Finance,Data,Unplaced,Not Placed
+23BT10030,Rishabh Prajapat,BT,8.27,SDE,,Unplaced,Not Placed
+23BT10031,Ritam Kundu,BT,8.71,SDE,Data,Unplaced,Not Placed
+23BT10032,Ritesh Kumar,BT,8.97,SDE,,Unplaced,Not Placed
+23BT10034,Soumil Kumar,BT,8.26,SDE,Data,Unplaced,Not Placed
+23BT10036,Vansh,BT,7.78,SDE,Data,Unplaced,Not Placed
+23BT10037,Walunj Omkar Vilas,BT,8.94,SDE,,Unplaced,Not Placed
+23CE10001,Aadit Jha,CE,7.84,SDE,,Unplaced,Not Placed
+23CE10002,Aashika Khutey,CE,7.82,SDE,Data,Unplaced,Not Placed
+23CE10003,Abhishek Gupta,CE,8.14,SDE,,Unplaced,Not Placed
+23CE10005,Adarsh Kumar Singh,CE,8.54,SDE,Core_CE,Unplaced,Not Placed
+23CE10008,Ajayendra Kumar Bansod,CE,7.26,SDE,,Unplaced,Not Placed
+23CE10010,Amit Yadav,CE,7.34,SDE,Core_CE,Unplaced,Not Placed
+23CE10011,Ananya Mondal,CE,8.41,SDE,Core_CE,Unplaced,Not Placed
+23CE10013,Ashish Kumar,CE,8.96,SDE,Core_CE,Unplaced,Not Placed
+23CE10014,Ashutosh Singh,CE,7.14,SDE,Data,Unplaced,Not Placed
+23CE10015,Ayush Chandra Dey,CE,8.87,SDE,,Unplaced,Not Placed
+23CE10016,Degulla Sahithi,CE,8.45,SDE,Data,Unplaced,Not Placed
+23CE10019,Gulve Shivraj Premraj,CE,8.62,SDE,Core_CE,Unplaced,Not Placed
+23CE10022,Harshit Yadav,CE,7.7,SDE,,Unplaced,Not Placed
+23CE10024,Kallam Sai Santosh Reddy,CE,8.37,SDE,Core_CE,Unplaced,Not Placed
+23CE10026,Khushi Kumari,CE,7.91,SDE,Core_CE,Opted_Out,Not Placed
+23CE10027,Krishna Nargesh,CE,7.21,SDE,Data,Unplaced,Not Placed
+23CE10028,Krupal Thakre,CE,8.88,Data,CONSULTING,Unplaced,Not Placed
+23CE10029,Loghith.U.S,CE,7.86,SDE,Core_CE,Unplaced,Not Placed
+23CE10030,Lovekush Meena,CE,7.76,SDE,,Unplaced,Not Placed
+23CE10032,Modalavalasa Keerthi,CE,8.15,SDE,,Unplaced,Not Placed
+23CE10033,Mudam Sneha,CE,7.86,SDE,Core_CE,Unplaced,Not Placed
+23CE10034,Nalla Shivatej Reddy,CE,7.59,SDE,Core_CE,Unplaced,Not Placed
+23CE10035,Nallaobireddygari Sai Yaswanth Reddy,CE,6.98,SDE,Core_CE,Unplaced,Not Placed
+23CE10036,Narwade Akash Narendra,CE,7.36,SDE,Core_CE,Unplaced,Not Placed
+23CE10037,Neelesh Agrawal,CE,8.32,SDE,Core_CE,Unplaced,Not Placed
+23CE10038,Pilly Akshay Kumar,CE,8.03,SDE,,Unplaced,Not Placed
+23CE10040,Pratik Ghosh,CE,7.38,CONSULTING,Core_CE,Opted_Out,Not Placed
+23CE10041,Pratyush Parth,CE,7.64,SDE,CONSULTING,Unplaced,Not Placed
+23CE10042,Praveen Jangir,CE,7.61,SDE,Core_CE,Unplaced,Not Placed
+23CE10044,Prince Choudhary,CE,7.4,SDE,Data,Unplaced,Not Placed
+23CE10045,Priyanshu Verma,CE,7.52,SDE,Data,Unplaced,Not Placed
+23CE10046,Pulkit Kumar,CE,8.76,SDE,Core_CE,Unplaced,Not Placed
+23CE10047,Rahul Kumar,CE,8.14,SDE,Core_CE,Unplaced,Not Placed
+23CE10048,Rahul R S,CE,6.68,SDE,,Unplaced,Not Placed
+23CE10049,Rajesh Dalai,CE,6.81,CONSULTING,Core_CE,Unplaced,Not Placed
+23CE10050,Ranvir Kumar,CE,7.68,SDE,,Unplaced,Not Placed
+23CE10051,Raushan Patel,CE,7.67,SDE,Core_CE,Unplaced,Not Placed
+23CE10052,Rayikanti Pratheeka,CE,9.27,Quant,SDE,Unplaced,Not Placed
+23CE10053,Rishit Koshta,CE,7.24,SDE,Core_CE,Opted_Out,Not Placed
+23CE10054,Riya Chaudhry,CE,9.4,Quant,SDE,Unplaced,Not Placed
+23CE10055,Rohitkumar Ramnaresh Meena,CE,8.81,SDE,Data,Unplaced,Not Placed
+23CE10056,Rongali Hanisree,CE,8.06,SDE,Core_CE,Unplaced,Not Placed
+23CE10060,Sanket Rewar,CE,7.78,SDE,Core_CE,Unplaced,Not Placed
+23CE10062,Saugata Malakar,CE,7.62,SDE,Data,Unplaced,Not Placed
+23CE10064,Shashank Pandya,CE,8.09,CONSULTING,Core_CE,Unplaced,Not Placed
+23CE10065,Shashank Sahil,CE,7.9,SDE,CONSULTING,Unplaced,Not Placed
+23CE10068,Shlok Sawant,CE,8.16,SDE,,Unplaced,Not Placed
+23CE10070,Siddhi Datri,CE,8.34,SDE,Core_CE,Unplaced,Not Placed
+23CE10071,Smruti Swarup Rout,CE,7.8,SDE,Data,Unplaced,Not Placed
+23CE10072,Soham Srivastava,CE,8.11,SDE,Core_CE,Unplaced,Not Placed
+23CE10076,Terbin Bagra,CE,7.69,SDE,,Opted_Out,Not Placed
+23CE10077,Toorpu Jashwanth Reddy,CE,7.51,SDE,,Unplaced,Not Placed
+23CE10079,Upasna Markam,CE,7.75,SDE,Data,Unplaced,Not Placed
+23CE10080,Vadthya Saidulu,CE,8.39,SDE,Core_CE,Unplaced,Not Placed
+23CE10082,Varshitha Reddy Puthalapattu,CE,7.86,SDE,Core_CE,Unplaced,Not Placed
+23CE10084,Velugu Niharika,CE,8.57,SDE,,Unplaced,Not Placed
+23CE10085,Vikash Siyak,CE,7.1,SDE,CONSULTING,Unplaced,Not Placed
+23CE10086,Vinay Singh,CE,9.27,Quant,SDE,Unplaced,Not Placed
+23CH10100,Sahil Ranjan,CH,8.45,SDE,Core_CH,Unplaced,Not Placed
+23CH10051,Ranveer Raj,CH,6.67,SDE,Core_CH,Unplaced,Not Placed
+23CH10052,Rapolu Renu Sree,CH,8.56,Data,CONSULTING,Unplaced,Not Placed
+23CH10053,Rishi Pratap Kumar Kushwah,CH,8.61,SDE,Core_CH,Unplaced,Not Placed
+23CH10054,Rohan,CH,8.92,SDE,,Unplaced,Not Placed
+23CH10055,Saakshi Baranwal,CH,7.34,SDE,Core_CH,Unplaced,Not Placed
+23CH10058,Samala Ujwal,CH,8.38,SDE,,Unplaced,Not Placed
+23CH10059,Samridhi Rastogi,CH,7.94,SDE,Data,Unplaced,Not Placed
+23CH10061,Shambo Chowdhury,CH,8.28,SDE,Data,Unplaced,Not Placed
+23CH10063,Siddhant Shah,CH,7.61,SDE,,Unplaced,Not Placed
+23CH10064,Sounak Sengupta,CH,8.41,SDE,CONSULTING,Unplaced,Not Placed
+23CH10001,Aaradhya Shukla,CH,8.28,SDE,,Unplaced,Not Placed
+23CH10002,Abhay Singh,CH,8.72,SDE,Core_CH,Unplaced,Not Placed
+23CH10003,Adarsh Mishra,CH,8.3,CONSULTING,Core_CH,Unplaced,Not Placed
+23CH10004,Ankit Anand,CH,8.95,SDE,Core_CH,Unplaced,Not Placed
+23CH10005,Anoop Kumar Singh,CH,8.04,SDE,Core_CH,Unplaced,Not Placed
+23CH10006,Anshuman Acharya,CH,8.31,SDE,Core_CH,Unplaced,Not Placed
+23CH10007,Anubhav Banerjee,CH,7.86,SDE,Core_CH,Opted_Out,Not Placed
+23CH10008,Archisha Paul,CH,7.66,Data,CONSULTING,Unplaced,Not Placed
+23CH10009,Archisman Bhaumik,CH,7.21,SDE,,Unplaced,Not Placed
+23CH10010,Arghadeep Ghosh,CH,6.44,SDE,,Unplaced,Not Placed
+23CH10011,Arnab Chakraborty,CH,8.73,SDE,,Unplaced,Not Placed
+23CH10012,Arnav Gupta,CH,8.33,SDE,Data,Unplaced,Not Placed
+23CH10014,Arya Dubey,CH,7.52,SDE,CONSULTING,Unplaced,Not Placed
+23CH10015,Avi Kumar,CH,7.22,SDE,Core_CH,Unplaced,Not Placed
+23CH10016,Avipsha Chatterjee,CH,8.25,SDE,,Unplaced,Not Placed
+23CH10017,Ayush Kumar,CH,7.12,SDE,Core_CH,Unplaced,Not Placed
+23CH10018,Banothu Vinay Kumar,CH,8.85,SDE,Core_CH,Unplaced,Not Placed
+23CH10019,Bhukya Ganesh,CH,7.47,SDE,Data,Unplaced,Not Placed
+23CH10020,Bhuvan Bajaj,CH,7.37,CONSULTING,Core_CH,Unplaced,Not Placed
+23CH10021,Bodigadla Prem Kumar,CH,7.83,SDE,,Unplaced,Not Placed
+23CH10022,Chandreyee Mondal,CH,8.4,SDE,Core_CH,Unplaced,Not Placed
+23CH10023,Chigicherla Udaya Sree,CH,7.89,SDE,,Unplaced,Not Placed
+23CH10025,Debanshu Ghosh,CH,7.2,SDE,CONSULTING,Unplaced,Not Placed
+23CH10026,Disha Mukherjee,CH,8.1,SDE,,Unplaced,Not Placed
+23CH10027,Divya Prakash,CH,7.29,SDE,,Unplaced,Not Placed
+23CH10028,G Naveen,CH,7.27,CONSULTING,Core_CH,Unplaced,Not Placed
+23CH10067,Soutam Rajbhar,CH,8.5,Data,CONSULTING,Unplaced,Not Placed
+23CH10068,Souvik Barman,CH,7.85,SDE,Core_CH,Unplaced,Not Placed
+23CH10069,Subhayu Paul,CH,7.54,SDE,Core_CH,Unplaced,Not Placed
+23CH10071,Suraj Kumar,CH,7.78,CONSULTING,Core_CH,Unplaced,Not Placed
+23CH10073,Udit Mohan Pradhan,CH,7.61,Finance,Core_CH,Unplaced,Not Placed
+23CH10074,Urvashi Verma,CH,7.05,SDE,Core_CH,Unplaced,Not Placed
+23CH10075,Vadapalli Gayathri Mani,CH,7.55,SDE,,Unplaced,Not Placed
+23CH10077,Vikash Rathore,CH,6.73,SDE,Data,Unplaced,Not Placed
+23CH10078,Vishakha Priya,CH,8.01,SDE,CONSULTING,Unplaced,Not Placed
+23CH10079,Yash Nagesh Sukhadeve,CH,8.56,SDE,Data,Unplaced,Not Placed
+23CH10080,Avaneesh Srivastava,CH,6.28,SDE,,Opted_Out,Not Placed
+23CH10081,Ayush Kumar Maurya,CH,8.12,SDE,Data,Unplaced,Not Placed
+23CH10082,Om Jain,CH,8.34,SDE,,Unplaced,Not Placed
+23CH10083,Piyush Sharma,CH,7.15,SDE,Core_CH,Unplaced,Not Placed
+23CH10084,Richa,CH,8.2,SDE,,Unplaced,Not Placed
+23CH10085,Harsh Nahata,CH,7.81,Finance,Core_CH,Unplaced,Not Placed
+23CH10086,Nikhil Patel,CH,8.8,SDE,Core_CH,Unplaced,Not Placed
+23CH10087,Adhiraj Singh Brar,CH,8.71,Data,CONSULTING,Unplaced,Not Placed
+23CH10088,Akshath Tushar Surwase,CH,7.81,SDE,Core_CH,Unplaced,Not Placed
+23CH10089,Shivang Devina,CH,7.67,Data,CONSULTING,Unplaced,Not Placed
+23CH10090,Sudhanshu Sharma,CH,7.53,CONSULTING,Core_CH,Opted_Out,Not Placed
+23CH10091,Yash Gupta,CH,7.43,SDE,Core_CH,Unplaced,Not Placed
+23CH10092,Ayush Goel,CH,8.53,SDE,Data,Unplaced,Not Placed
+23CH10093,Manish,CH,7.88,SDE,Core_CH,Unplaced,Not Placed
+23CH10094,Snehal Pal,CH,8.22,SDE,Data,Unplaced,Not Placed
+23CH10095,Aarushi Sharma,CH,9.78,Quant,SDE,Placed,ITC_CORE_ME/IM
+23CH10096,Akshat Ranjit Kumar,CH,7.93,SDE,Core_CH,Unplaced,Not Placed
+23CH10097,S Ayush,CH,7.77,SDE,CONSULTING,Unplaced,Not Placed
+23CH10098,Meghav Pradeep,CH,7.68,SDE,Core_CH,Unplaced,Not Placed
+23CH10099,Soumyashree Nayak,CH,6.93,SDE,,Opted_Out,Not Placed
+23CH10029,Guguloth Nandi,CH,8.37,SDE,Core_CH,Unplaced,Not Placed
+23CH10030,Harsh Bhatt,CH,8.13,SDE,CONSULTING,Unplaced,Not Placed
+23CH10031,Harsh Dalmia,CH,7.97,SDE,Data,Unplaced,Not Placed
+23CH10032,Hawa Khatoon,CH,8.78,SDE,Core_CH,Unplaced,Not Placed
+23CH10033,Jajiria Chetan,CH,8.44,SDE,Core_CH,Unplaced,Not Placed
+23CH10034,Kartavya Agarwal,CH,8.69,SDE,,Unplaced,Not Placed
+23CH10035,Krish Sahu,CH,8.42,SDE,,Unplaced,Not Placed
+23CH10037,Lakshay Gupta,CH,7.56,SDE,Core_CH,Unplaced,Not Placed
+23CH10038,Malothu Hussain,CH,7.23,SDE,,Unplaced,Not Placed
+23CH10040,Marsoniya Mahek Anand,CH,6.6,SDE,Core_CH,Unplaced,Not Placed
+23CH10041,Mayank Narayan Mahajan,CH,6.54,SDE,Core_CH,Unplaced,Not Placed
+23CH10042,Md Misbah Ur Rahman,CH,7.2,SDE,,Unplaced,Not Placed
+23CH10043,Mundla Rishi Narayan,CH,6.56,Data,CONSULTING,Unplaced,Not Placed
+23CH10044,Neel Jayant Durugkar,CH,6.34,SDE,Data,Unplaced,Not Placed
+23CH10045,Nikhil Kushwah,CH,8.57,SDE,,Unplaced,Not Placed
+23CH10046,Niveditha K,CH,9.54,Quant,SDE,Placed,UBER_SDE
+23CH10047,Poras Suresh Dhore,CH,7.84,SDE,Data,Unplaced,Not Placed
+23CH10048,Prasad Hanuman Shinde,CH,8.76,SDE,Data,Unplaced,Not Placed
+23CH10049,Priyanshu,CH,7.8,SDE,Core_CH,Opted_Out,Not Placed
+23CH10050,Raj Majumder,CH,8.44,SDE,Data,Unplaced,Not Placed
+23CS10001,Aluka Manideep Reddy,CS,9.4,Quant,SDE,Placed,Amazon_SDE
+23CS10002,Ananya Mondal,CS,8.84,SDE,,Placed,Amazon_SDE
+23CS10003,Aryan Yadav,CS,8.9,SDE,Data,Placed,Goldman Sachs(GS)_Data
+23CS10004,Ashutosh Ranjan,CS,9.64,Quant,SDE,Placed,Graviton Research Capital_SDE
+23CS10005,Ashutosh Sharma,CS,9.74,Quant,SDE,Placed,Rubrik_SDE
+23CS10006,Asmit Pandey,CS,9.4,Quant,SDE,Placed,Graviton Research Capital_SDE
+23CS10007,Ayush Bit,CS,9.13,Quant,SDE,Placed,Databricks_SDE
+23CS10008,Bala Dharnesh,CS,8.77,SDE,Data,Placed,Adobe_DATA
+23CS10009,Battula Hari Lakshman Prasad,CS,8.13,SDE,Data,Opted_Out,Not Placed
+23CS10010,Bethu Krithi,CS,9.1,Quant,SDE,Placed,Google_SDE
+23CS10011,Burri Vivek Vardhan Varma,CS,7.55,SDE,Data,Unplaced,Not Placed
+23CS10012,Charniya Krish,CS,9.83,Quant,SDE,Placed,Alphagrep_SDE
+23CS10013,Chintada Yesheeth Sree Narayana,CS,7.57,SDE,Data,Opted_Out,Not Placed
+23CS10014,Chintala Pravallika,CS,9.61,Quant,SDE,Placed,Graviton Research Capital_Quant
+23CS10015,Dake Yuvan Gates,CS,9.7,Quant,SDE,Placed,Rubrik_SDE
+23CS10016,Dasari Pardha Saradhi,CS,8.73,SDE,CONSULTING,Placed,BAIN_Consulting
+23CS10017,Dasari Veera Venkata Abhinav Teja,CS,7.35,SDE,Data,Unplaced,Not Placed
+23CS10018,Devarapalli Amrutha,CS,9.61,Quant,SDE,Placed,Graviton Research Capital_SDE
+23CS10019,Dhruv Singh,CS,8.66,Data,CONSULTING,Placed,BAIN_Consulting
+23CS10020,Garlapati Srimannadh Reddy,CS,8.4,SDE,Data,Unplaced,Not Placed
+23CS10021,Gondha Damiya Manishkumar,CS,9.24,Quant,SDE,Placed,Alphagrep_SDE
+23CS10022,Guduru Neeraj Reddy,CS,9.34,Quant,SDE,Placed,Graviton Research Capital_SDE
+23CS10023,Guguloth Srishanth,CS,9.01,Quant,SDE,Placed,Alphagrep_SDE
+23CS10024,Guguloth Vijay,CS,8.54,SDE,Data,Placed,Adobe_Data
+23CS10025,Harshit Singhal,CS,9.16,Quant,SDE,Placed,DE Shaw & Co_SDE
+23CS10026,J Sai Rahul Siddartha Reddy,CS,9.38,Quant,SDE,Placed,Databricks_SDE
+23CS10027,Jani Jay Vipulbhai,CS,7.62,SDE,Data,Unplaced,Not Placed
+23CS10028,Jindam Sreenath,CS,9.93,Quant,SDE,Placed,Alphagrep_SDE
+23CS10029,K Mahesh,CS,9.95,SDE,Data,Placed,Alphagrep_SDE
+23CS10030,Kaustav Mishra,CS,9.39,Quant,SDE,Placed,Goldman Sachs(GS)_SDE
+23CS10031,Kavya Rai,CS,7.59,SDE,,Unplaced,Not Placed
+23CS10032,Kharat Aditya Narayan,CS,9.7,SDE,Data,Opted_Out,Not Placed
+23CS10033,Koncha Lavanya,CS,7.64,SDE,,Unplaced,Not Placed
+23CS10034,Krishna Singha,CS,8.17,SDE,Data,Placed,Nomura_DATA
+23CS10035,Krishnkant Sahu,CS,8.08,SDE,Data,Unplaced,Not Placed
+23CS10036,Kunderapu Abhiram,CS,9.99,Finance,SDE,Placed,Adobe_SDE
+23CS10037,Lakavath Sai Charan,CS,7.39,SDE,Data,Unplaced,Not Placed
+23CS10038,Lenka Nikitha,CS,7.96,SDE,Data,Unplaced,Not Placed
+23CS10039,M Lekhya Reddy,CS,7.71,SDE,,Unplaced,Not Placed
+23CS10040,Macharla Harihara Varma,CS,8.3,SDE,Data,Unplaced,Not Placed
+23CS10041,Maddipatla Sai Sravan,CS,8.54,SDE,Data,Placed,Adobe_Data
+23CS10043,Marala Sai Pragnaan,CS,7.96,SDE,,Unplaced,Not Placed
+23CS10044,Mayank Goyal,CS,6.48,SDE,Data,Unplaced,Not Placed
+23CS10045,Miryala Avinash Kumar,CS,7.96,SDE,,Unplaced,Not Placed
+23CS10046,Monica Reddy Narem,CS,9.06,Quant,SDE,Placed,JPMC_SDE
+23CS10047,Mozeel Pradip Vanwani,CS,7.61,SDE,CONSULTING,Unplaced,Not Placed
+23CS10048,Nutubilli Gayatri,CS,7.95,SDE,Data,Unplaced,Not Placed
+23CS10049,Parag Mahadeo Chimankar,CS,7.4,SDE,Data,Unplaced,Not Placed
+23CS10050,Parv Makwana,CS,9.03,Quant,SDE,Placed,Google_SDE
+23CS10051,Patel Shrey Gaurangbhai,CS,7.29,SDE,Data,Opted_Out,Not Placed
+23CS10052,Payidiparthy Sri Surya Naga Hadwik,CS,8.09,Data,CONSULTING,Unplaced,Not Placed
+23CS10053,Perumalla Srujan Shyam,CS,7.86,SDE,Data,Unplaced,Not Placed
+23CS10054,Popuri Anirudh,CS,7.19,SDE,Data,Unplaced,Not Placed
+23CS10055,Pulugu Lokeswara Reddy,CS,9.07,Quant,SDE,Placed,Databricks_SDE
+23CS10056,Rachamsetty Harsha Vardhan,CS,9.93,Quant,SDE,Placed,UBER_SDE
+23CS10058,Rajaboina Naveen,CS,8.35,SDE,Data,Unplaced,Not Placed
+23CS10059,Ramakurthi Ashok Chandra,CS,8.71,SDE,Data,Placed,Morgan Stanley_Data
+23CS10060,Rohit Ranjeet Satpute,CS,9.46,Quant,SDE,Placed,Optiver_Quant
+23CS10061,Routhu Sai Narayana,CS,8.43,CONSULTING,Data,Unplaced,Not Placed
+23CS10062,Sake Jaswanth,CS,8.17,SDE,Data,Unplaced,Not Placed
+23CS10063,Sanjana Kothi,CS,9.29,SDE,Data,Placed,Microsoft_Software Development
+23CS10064,Sapavat Asritha Chouhan,CS,7.33,SDE,,Unplaced,Not Placed
+23CS10065,Shaik Asim Shareef,CS,8.35,SDE,Data,Unplaced,Not Placed
+23CS10066,Shankit Kumar Das,CS,8.48,SDE,,Unplaced,Not Placed
+23CS10067,Sivaroop J,CS,9.39,Quant,SDE,Placed,Microsoft_Software Development
+23CS10068,Soham Das,CS,8.37,SDE,Data,Placed,Microsoft_Software Development
+23CS10069,Sukumar Singh,CS,8.5,Data,CONSULTING,Unplaced,Not Placed
+23CS10070,Suvadip Bhuiya,CS,7.85,SDE,Data,Unplaced,Not Placed
+23CS10071,Tanishq Sura,CS,6.93,SDE,,Unplaced,Not Placed
+23CS10072,Thota Rithvik,CS,9.52,Quant,SDE,Placed,Adobe_SDE
+23CS10073,Thummala Thilok,CS,8.8,SDE,Data,Placed,Adobe_DATA
+23CS10074,Thummaluri Nymish Kumar Reddy,CS,8.34,SDE,Data,Placed,Adobe_Data
+23CS10075,Vaibhav Raj,CS,8.17,SDE,Data,Opted_Out,Not Placed
+23CS10076,Vankam Manasa,CS,7.64,SDE,Data,Opted_Out,Not Placed
+23CS10077,Vansh Agrawal,CS,9.06,Quant,SDE,Placed,Microsoft_Software Development
+23CS10078,Vemuri Sai Lokesh,CS,9.68,Quant,SDE,Placed,Optiver_Quant
+23CS10079,Vinay Koduru,CS,9.42,SDE,,Unplaced,Not Placed
+23CS10080,Yashvardhan Jain,CS,8.75,SDE,,Unplaced,Not Placed
+23CS10081,Yellapu Dheeraj Babu,CS,9.23,Quant,SDE,Opted_Out,Not Placed
+23CS10082,Yernagula Lavanya Vani,CS,8.74,SDE,,Unplaced,Not Placed
+23CS10083,Kunal Surana,CS,9.59,Quant,SDE,Placed,Graviton Research Capital_SDE
+23CS10084,Rahul Chandrakant Patne,CS,9.82,Quant,SDE,Placed,Databricks_SDE
+23CS10085,Siddhant Singh,CS,9.25,Quant,SDE,Placed,JPMC_SDE
+23CS10086,Antariksh Das,CS,9.22,Quant,SDE,Placed,Rubrik_SDE
+23CS10087,Imad Farooque,CS,9.02,Quant,SDE,Placed,Goldman Sachs(GS)_Quant
+23CS10088,Aditya Prakash,CS,8.62,SDE,,Unplaced,Not Placed
+23CS10089,Mayank Modi,CS,9.31,Quant,SDE,Placed,Databricks_SDE
+23CS10090,Utsa Ghosh,CS,9.98,Quant,SDE,Placed,Glean_SDE
+23CS10091,Sibashis Som,CS,7.21,SDE,Data,Unplaced,Not Placed
+23CS30001,Aditya Singh Tomar,CS,9.31,SDE,Data,Placed,Nomura_DATA
+23MT10005,Amlesh Kumar,MT,8.18,SDE,Core_MT,Unplaced,Not Placed
+23MT10006,Anannya Dhar,MT,7.28,SDE,Core_MT,Unplaced,Not Placed
+23MT10008,Annangi Neeraj Kumar,MT,7.75,SDE,Data,Unplaced,Not Placed
+23MT10009,Arepally Vamshi Krishna,MT,7.62,SDE,,Unplaced,Not Placed
+23MT10010,Arnav Sheel Dwivedi,MT,8.05,SDE,,Unplaced,Not Placed
+23MT10011,Aron Chacko Alan,MT,7.45,SDE,Core_MT,Unplaced,Not Placed
+23MT10012,Aryush Verma,MT,9.57,Quant,SDE,Opted_Out,Not Placed
+23MT10013,Ashwani Pathak,MT,8.95,SDE,Core_MT,Unplaced,Not Placed
+23MT10014,Atulya Sharan,MT,8.12,SDE,Data,Unplaced,Not Placed
+23MT10015,Ayush Kumar Singh,MT,7.76,SDE,Core_MT,Opted_Out,Not Placed
+23MT10016,Ayush Rajesh Ogale,MT,8.35,SDE,Core_MT,Unplaced,Not Placed
+23MT10017,Bhor Aaradhya Mahendra,MT,8.23,SDE,Core_MT,Unplaced,Not Placed
+23MT10018,Bokam Purna Gangotri,MT,7.48,SDE,Data,Unplaced,Not Placed
+23MT10020,Debarshini Mondal,MT,8.32,CONSULTING,Core_MT,Unplaced,Not Placed
+23MT10021,Debhayush Nandy,MT,6.6,SDE,Core_MT,Unplaced,Not Placed
+23MT10022,Dharavath Shivaji,MT,7.73,SDE,Core_MT,Unplaced,Not Placed
+23MT10023,Harsh Singh,MT,7.53,SDE,,Unplaced,Not Placed
+23MT10024,Janni Manikanta,MT,6.89,SDE,Core_MT,Unplaced,Not Placed
+23MT10025,Jayant Rana,MT,8.43,SDE,Core_MT,Unplaced,Not Placed
+23MT10026,Jayesh Andhale,MT,6.85,SDE,Core_MT,Unplaced,Not Placed
+23MT10027,Jeesica G R,MT,8.7,SDE,Core_MT,Unplaced,Not Placed
+23MT10030,Lakavath Mamatha,MT,7.8,SDE,Core_MT,Unplaced,Not Placed
+23MT10031,Mateen Ali,MT,7.31,SDE,Core_MT,Unplaced,Not Placed
+23MT10032,Mehul Kumar,MT,7.22,SDE,Core_MT,Unplaced,Not Placed
+23MT10033,Moitrayan Nandy,MT,7.75,SDE,Data,Unplaced,Not Placed
+23MT10034,Nalamasa Chandra Siddharth,MT,9.02,Quant,SDE,Unplaced,Not Placed
+23MT10035,Omkar Prajapati,MT,9.54,Quant,SDE,Unplaced,Not Placed
+23MT10036,Pachigolla Sai Kiran,MT,7.79,SDE,Core_MT,Unplaced,Not Placed
+23MT10037,Paidi Geetesh Chandra,MT,8.5,SDE,Core_MT,Unplaced,Not Placed
+23MT10038,Patil Chaitanya Upendra,MT,8.35,SDE,Core_MT,Unplaced,Not Placed
+23MT10039,Pratik Kumar Gayen,MT,7.52,SDE,Core_MT,Unplaced,Not Placed
+23MT10040,Priyanshi Gupta,MT,7.67,SDE,CONSULTING,Unplaced,Not Placed
+23MT10041,Ramavath Laxman,MT,8.54,SDE,Core_MT,Unplaced,Not Placed
+23MT10043,Ruchi Gupta,MT,7.65,SDE,Data,Unplaced,Not Placed
+23MT10044,Rupavath Aravind,MT,6.95,SDE,Core_MT,Unplaced,Not Placed
+23MT10046,Sadavarte Yash Tukaram,MT,8.3,SDE,Core_MT,Opted_Out,Not Placed
+23MT10051,Sheggari Susheel Kumar Goud,MT,8.2,CONSULTING,Core_MT,Unplaced,Not Placed
+23MT10052,Shikhar Chandra,MT,8.78,SDE,CONSULTING,Unplaced,Not Placed
+23MT10053,Shusmit Sarkar,MT,7.44,SDE,Core_MT,Unplaced,Not Placed
+23MT10055,Subarna Maity,MT,8.21,SDE,,Unplaced,Not Placed
+23MT10056,Subramanya Nayak,MT,7.29,SDE,Data,Opted_Out,Not Placed
+23MT10057,Sudhanshu Mishra,MT,8.41,SDE,,Unplaced,Not Placed
+23MT10058,Tanish Agarwal,MT,7.68,SDE,Data,Unplaced,Not Placed
+23MT10059,Vaibhav Pati,MT,8.91,SDE,Data,Unplaced,Not Placed
+23MT10063,Tejal Saurabhi,MT,8.27,SDE,,Unplaced,Not Placed
+23NA10001,Agrawal Devansh Sachin,NA,7.36,SDE,,Unplaced,Not Placed
+23NA10002,Ahire Saurabh Vilas,NA,8.49,Finance,SDE,Unplaced,Not Placed
+23NA10004,Akshit Goyal,NA,6.46,SDE,,Unplaced,Not Placed
+23NA10005,Aniket Nainwal,NA,8.72,Data,SDE,Unplaced,Not Placed
+23NA10006,Ankit Pal,NA,8.03,Data,,Unplaced,Not Placed
+23NA10007,Aryan Kumar Rathaur,NA,8.44,Data,SDE,Opted_Out,Not Placed
+23NA10008,Ayush Singh,NA,8.25,Data,CONSULTING,Unplaced,Not Placed
+23NA10009,Boda Ganesh,NA,8.91,Data,SDE,Unplaced,Not Placed
+23NA10010,Devanshi Kushwaha,NA,7.57,Data,SDE,Unplaced,Not Placed
+23NA10011,Dheniya Krish Lalitkumar,NA,8.72,Data,SDE,Unplaced,Not Placed
+23NA10013,Elipe Rohith Matthew,NA,8.62,Data,,Unplaced,Not Placed
+23NA10014,Glory Narzari,NA,7.38,Data,SDE,Unplaced,Not Placed
+23NA10015,Guramrit Pal Singh,NA,7.96,Data,SDE,Unplaced,Not Placed
+23NA10016,Harsh Rai,NA,9.32,Quant,SDE,Unplaced,Not Placed
+23NA10017,Harshavarda Kumarasamy,NA,8.17,SDE,,Unplaced,Not Placed
+23NA10018,Himanshu,NA,8.32,Data,SDE,Unplaced,Not Placed
+23NA10019,Kadam Gaurav Satish,NA,7.65,SDE,,Unplaced,Not Placed
+23NA10020,Kattayani Sanyal,NA,8.45,Data,SDE,Unplaced,Not Placed
+23NA10021,Koripuri Manish Ramana,NA,6.51,Data,SDE,Opted_Out,Not Placed
+23NA10022,Lavudya Mukesh Vardhan,NA,8.23,Data,SDE,Unplaced,Not Placed
+23NA10023,M S Karthik,NA,7.57,SDE,,Unplaced,Not Placed
+23NA10026,Mrithunjoy Basumatary,NA,8.73,Data,SDE,Unplaced,Not Placed
+23NA10027,Namanya Pant,NA,8.02,Data,,Unplaced,Not Placed
+23NA10029,Pranav Prashant Bhujbal,NA,6.85,Data,SDE,Unplaced,Not Placed
+23NA10030,Pranit Chaudhary,NA,9.17,Quant,SDE,Unplaced,Not Placed
+23NA10031,Prikshit Goyal,NA,7.43,Data,SDE,Unplaced,Not Placed
+23NA10032,Priyanshu,NA,7.58,Data,SDE,Unplaced,Not Placed
+23NA10033,Pudi Tharun Kumar,NA,8.14,CONSULTING,SDE,Unplaced,Not Placed
+23NA10034,Rahul Raj Sharma,NA,8.77,SDE,,Unplaced,Not Placed
+23NA10035,Rasamalla Charan Prakash,NA,7.03,Data,SDE,Unplaced,Not Placed
+23NA10036,Rishab Yadav,NA,8.2,Data,SDE,Unplaced,Not Placed
+23NA10037,Rishika Bhimrajka,NA,7.97,Data,SDE,Unplaced,Not Placed
+23NA10038,Ritam Kanjilal,NA,8.31,CONSULTING,Data,Unplaced,Not Placed
+23NA10039,Samarpan Sadhu,NA,7.88,SDE,,Unplaced,Not Placed
+23NA10040,Sanjay Krishna S,NA,8.9,Data,SDE,Opted_Out,Not Placed
+23NA10041,Shiyam Srivasthan J,NA,8.41,Data,SDE,Unplaced,Not Placed
+23NA10042,Siddhi Khandelwal,NA,7.9,Data,SDE,Unplaced,Not Placed
+23NA10044,Unnati Vikas Rakshaskar,NA,8.26,CONSULTING,SDE,Unplaced,Not Placed
+23NA10045,Vadish Choudhary,NA,8.7,SDE,,Unplaced,Not Placed
+23NA10046,Yukti Aggarwal,NA,8.04,Data,SDE,Unplaced,Not Placed
+23IM10005,Arpan Mondal,IM,7.91,Data,Core_IM,Unplaced,Not Placed
+23IM10007,Ayan Ansari,IM,8.76,Data,Core_IM,Unplaced,Not Placed
+23IM10008,Ayush Kumar,IM,6.51,Core_IM,,Unplaced,Not Placed
+23IM10009,Boda Meghana,IM,7.26,Data,Core_IM,Unplaced,Not Placed
+23IM10010,Dhanvith Nayak,IM,9.0,Quant,SDE,Unplaced,Not Placed
+23IM10011,Ganagalla Neha Sri,IM,8.19,Data,Core_IM,Unplaced,Not Placed
+23IM10012,Gaurav Sirohi,IM,7.64,Data,Core_IM,Unplaced,Not Placed
+23IM10014,Jash Nikhil Mehta,IM,7.19,CONSULTING,Core_IM,Unplaced,Not Placed
+23IM10015,Jayanshu Jena,IM,8.28,CONSULTING,Core_IM,Unplaced,Not Placed
+23IM10017,Kadali Lakshmi Durga,IM,7.06,Data,Core_IM,Unplaced,Not Placed
+23IM10018,Kewal Kumar,IM,7.58,Core_IM,,Unplaced,Not Placed
+23IM10019,Kolanti Akash,IM,7.63,Data,Core_IM,Unplaced,Not Placed
+23IM10020,Komanabelli Balaji,IM,7.68,Core_IM,,Opted_Out,Not Placed
+23IM10021,Kotaru V M Santhosh Lakshman,IM,8.47,Data,Core_IM,Unplaced,Not Placed
+23IM10022,Kunchaparthi Kavya,IM,7.88,Data,Core_IM,Unplaced,Not Placed
+23IM10023,Maloth Arun Kumar,IM,7.98,Data,Core_IM,Unplaced,Not Placed
+23IM10024,Md. Ahsan Equbal,IM,7.06,Core_IM,,Unplaced,Not Placed
+23IM10025,More Devraj Sachin,IM,8.95,Data,Core_IM,Unplaced,Not Placed
+23IM10026,Omkar Singh,IM,8.35,Data,Core_IM,Placed,HUL_DATA
+23IM10027,Peram Prasanthi,IM,8.49,Core_IM,,Unplaced,Not Placed
+23IM10028,Rishabh Dehariya,IM,7.59,Data,Core_IM,Unplaced,Not Placed
+23IM10029,Rudra Gupta,IM,8.43,Core_IM,,Unplaced,Not Placed
+23IM10030,Sagnik De,IM,7.93,Data,Core_IM,Unplaced,Not Placed
+23IM10031,Sarbashuchi Sarkar,IM,8.14,Data,Core_IM,Unplaced,Not Placed
+23IM10032,Sarthak Rajeshkumar Patel,IM,7.62,Data,Core_IM,Unplaced,Not Placed
+23IM10033,Shani Maurya,IM,8.0,Data,Core_IM,Opted_Out,Not Placed
+23IM10034,Shiven Lohia,IM,8.58,Data,Core_IM,Placed,HUL_DATA
+23IM10035,Sourav Upadhyay,IM,7.89,Core_IM,,Unplaced,Not Placed
+23IM10036,Subhajit Mondal,IM,8.67,Data,Core_IM,Unplaced,Not Placed
+23IM10037,Suryansh Singh Parihar,IM,8.27,CONSULTING,Core_IM,Unplaced,Not Placed
+23IM10038,Svadip Vaibhav Muneshwar,IM,7.11,Core_IM,,Unplaced,Not Placed
+23IM10039,Taniya Das,IM,8.3,Data,Core_IM,Unplaced,Not Placed
+23IM10041,Usoshi Dey,IM,8.8,Data,Core_IM,Opted_Out,Not Placed
+23IM10042,Vedant Malsure,IM,8.83,Data,Core_IM,Opted_Out,Not Placed
+23IM10044,Daksh Jogchand,IM,8.36,Data,Core_IM,Unplaced,Not Placed
+23IM10046,Aryan Kumar,IM,8.48,CONSULTING,Core_IM,Unplaced,Not Placed
+23IM10047,Aditya Singh Bisht,IM,8.78,Data,Core_IM,Unplaced,Not Placed
+23IM10049,Prem Pastagia,IM,8.13,Data,Core_IM,Unplaced,Not Placed
+23IM10050,Raghuveer V,IM,8.45,Data,Core_IM,Unplaced,Not Placed
+23IM10051,Anish Tharad,IM,8.39,Data,Core_IM,Unplaced,Not Placed
+23IM10052,Shaurya Baranwal,IM,9.44,Quant,SDE,Placed,American Express_Analyst
+23ME10001,Abhishek Saha,ME,8.25,Data,Core_ME,Unplaced,Not Placed
+23ME10002,Aditya Amol Kulkarni,ME,8.35,Data,Core_ME,Unplaced,Not Placed
+23ME10003,Aditya Nahata,ME,8.76,Data,Core_ME,Unplaced,Not Placed
+23ME10006,Ajsal Ali,ME,8.52,Data,Core_ME,Unplaced,Not Placed
+23ME10007,Akankshaa Padhi,ME,7.11,Core_ME,,Unplaced,Not Placed
+23ME10008,Akkena Sri Varun,ME,8.23,Core_ME,,Unplaced,Not Placed
+23ME10009,Anmol Dureja,ME,6.78,Core_ME,,Opted_Out,Not Placed
+23ME10011,Apurba Kumar Show,ME,7.96,Core_ME,,Opted_Out,Not Placed
+23ME10012,Arijit Shil,ME,8.56,Data,Core_ME,Unplaced,Not Placed
+23ME10014,Ayush Dongre,ME,7.39,Data,Core_ME,Unplaced,Not Placed
+23ME10015,Bachupally Vyshnavi,ME,7.85,Data,Core_ME,Unplaced,Not Placed
+23ME10016,Bhasuru Sai Abhaya,ME,7.48,Data,Core_ME,Unplaced,Not Placed
+23ME10017,Bhumireddi Girish Yaswanth,ME,7.53,Data,Core_ME,Unplaced,Not Placed
+23ME10018,Bommineedi Manaswitha,ME,6.29,Data,CONSULTING,Unplaced,Not Placed
+23ME10019,Brajesh Kumar Sahoo,ME,7.36,Core_ME,,Unplaced,Not Placed
+23ME10020,Chintala Hemanth,ME,8.32,Data,Core_ME,Unplaced,Not Placed
+23ME10021,Devareddy Hemanth Muthyam,ME,8.23,Core_ME,,Unplaced,Not Placed
+23ME10022,Diya Arjun Jadhav,ME,8.25,Data,Core_ME,Unplaced,Not Placed
+23ME10023,Dudhgaonkar Harshraj Shekhar,ME,7.67,Data,Core_ME,Unplaced,Not Placed
+23ME10024,Eluru Vedakshari,ME,7.45,Data,Core_ME,Unplaced,Not Placed
+23ME10025,Gargi Mukherjee,ME,8.4,Core_ME,,Unplaced,Not Placed
+23ME10026,Gaurav Kumar,ME,8.21,Data,Core_ME,Unplaced,Not Placed
+23ME10029,Gokul R,ME,8.48,Data,CONSULTING,Unplaced,Not Placed
+23ME10030,Gottapu Solomon Raju,ME,6.32,Data,Core_ME,Unplaced,Not Placed
+23ME10032,Harshit Meena,ME,8.23,Core_ME,,Unplaced,Not Placed
+23ME10034,Indresh Vikram Bipul,ME,8.54,Data,Core_ME,Unplaced,Not Placed
+23ME10035,Isha Singhal,ME,7.19,Core_ME,,Unplaced,Not Placed
+23ME10037,Jasmeet Singh Chadha,ME,7.68,Data,Core_ME,Unplaced,Not Placed
+23ME10038,Kanchan Potdar,ME,8.61,Data,Core_ME,Unplaced,Not Placed
+23ME10039,Karri Manasa Indu Sri,ME,8.86,Data,Core_ME,Unplaced,Not Placed
+23ME10040,Kartikey Patel,ME,7.02,Data,CONSULTING,Unplaced,Not Placed
+23ME10041,Krishna Ashrai Chochipatla,ME,8.39,Data,Core_ME,Opted_Out,Not Placed
+23ME10042,Krishnav Anand Agarwal,ME,8.75,Data,Core_ME,Unplaced,Not Placed
+23ME10043,Krityapriya Bhaumik,ME,7.98,Core_ME,,Unplaced,Not Placed
+23ME10045,Laukik Mudhawane,ME,6.77,Data,Core_ME,Unplaced,Not Placed
+23ME10046,Magizhan V,ME,8.32,Data,Core_ME,Unplaced,Not Placed
+23ME10047,Mantra Malpani,ME,7.19,Data,Core_ME,Unplaced,Not Placed
+23ME10048,Mauryavardhan Singh,ME,7.43,Core_ME,,Unplaced,Not Placed
+23ME10049,Mayank Nagar,ME,8.28,Data,Core_ME,Unplaced,Not Placed
+23ME10050,Md Iqbal,ME,8.12,Data,Core_ME,Unplaced,Not Placed
+23ME10051,Md Zaid Akhtar,ME,8.1,SDE,Finance,Placed,JPMC_Finance
+23ME10052,Modi Harsh Kamal,ME,8.08,Data,Core_ME,Unplaced,Not Placed
+23ME10053,Nagineni Lakshmipravallika,ME,7.18,SDE,CONSULTING,Unplaced,Not Placed
+23ME10054,Navadeep Nandedapu,ME,8.87,Core_ME,,Unplaced,Not Placed
+23ME10056,Pallakonda Bhuvanesh,ME,8.33,Core_ME,,Unplaced,Not Placed
+23ME10057,Panyam Sushanth,ME,8.18,Data,Core_ME,Unplaced,Not Placed
+23ME10058,Piyush Ranjan,ME,8.57,Core_ME,,Unplaced,Not Placed
+23ME10059,Pranav Jaiganesh,ME,8.71,Data,Core_ME,Unplaced,Not Placed
+23ME10060,Pranjali Khatua,ME,7.49,Core_ME,,Unplaced,Not Placed
+23ME10061,Praveen Oraon,ME,8.4,Data,Core_ME,Unplaced,Not Placed
+23ME10062,Prayas Shashikant Chaware,ME,9.52,Quant,SDE,Placed,ITC_CORE_ME/IM
+23ME10064,Raghu Perala,ME,8.35,Data,Core_ME,Unplaced,Not Placed
+23ME10065,Rajkumar Hens,ME,8.18,Data,Core_ME,Unplaced,Not Placed
+23ME10066,Raksha Gupta,ME,7.72,Core_ME,,Unplaced,Not Placed
+23ME10067,Rapaka Manoj,ME,7.91,Data,Core_ME,Unplaced,Not Placed
+23ME10068,Rishik Sarkar,ME,7.21,Data,Core_ME,Unplaced,Not Placed
+23ME10069,Rishikant Meena,ME,7.52,Core_ME,,Unplaced,Not Placed
+23ME10070,Rupali Yuvraj Hingankar,ME,8.65,CONSULTING,Core_ME,Unplaced,Not Placed
+23ME10071,Ryali Sri Pavan Sai Sashank,ME,7.98,Data,Core_ME,Unplaced,Not Placed
+23ME10072,Sagar Kumar Singh,ME,8.01,Core_ME,,Unplaced,Not Placed
+23ME10073,Sagnik Pal,ME,7.77,CONSULTING,Core_ME,Unplaced,Not Placed
+23ME10074,Saloni,ME,9.26,Quant,SDE,Unplaced,Not Placed
+23ME10077,Saurav Shekhar,ME,8.29,Data,Core_ME,Unplaced,Not Placed
+23ME10078,Sharvari Rajesh Karhe,ME,7.13,Data,Core_ME,Opted_Out,Not Placed
+23ME10079,Shisan Sarkar,ME,8.44,Data,Core_ME,Unplaced,Not Placed
+23ME10080,Shivam Kunal,ME,8.75,Data,Core_ME,Unplaced,Not Placed
+23ME10081,Siddhant Yadav,ME,7.09,Data,Core_ME,Unplaced,Not Placed
+23ME10082,Siddharth Behera,ME,7.76,Core_ME,,Unplaced,Not Placed
+23ME10083,Sidhart Sharma,ME,9.35,Quant,SDE,Unplaced,Not Placed
+23ME10084,Singidi Abhinay,ME,7.84,Data,Core_ME,Unplaced,Not Placed
+23ME10085,Sohom Datta,ME,7.93,Data,Core_ME,Unplaced,Not Placed
+23ME10086,Soumadip Majumder,ME,8.55,Data,Core_ME,Unplaced,Not Placed
+23ME10087,Soumya Ranjan Singh,ME,8.58,CONSULTING,Core_ME,Unplaced,Not Placed
+23ME10088,Sparsh Agarwal,ME,6.72,Data,Core_ME,Unplaced,Not Placed
+23ME10089,Sudeep Dileep Kumar Prajapati,ME,7.84,Core_ME,,Unplaced,Not Placed
+23ME10090,Swadhin Kumar Behera,ME,8.86,Data,Core_ME,Placed,HUL_DATA
+23ME10091,Tanmay Arvind Nevre,ME,8.47,Data,Core_ME,Placed,HUL_DATA
+23ME10093,Tumu Raghuram,ME,6.61,Core_ME,,Unplaced,Not Placed
+23ME10094,Ushasee Roy,ME,8.05,Data,Core_ME,Unplaced,Not Placed
+23ME10095,Varun Santosh Nikam,ME,6.66,Core_ME,,Unplaced,Not Placed
+23ME10096,Vedansh Patel,ME,8.82,Data,Core_ME,Placed,ITC_CORE_ME/IM
+23ME10097,Vishal Kumar,ME,7.37,Data,Core_ME,Unplaced,Not Placed
+23ME10098,Vishwas Soni,ME,8.92,Data,Core_ME,Unplaced,Not Placed
+23ME10101,Ayush Singh,ME,7.04,Data,Core_ME,Opted_Out,Not Placed
+23ME10102,Arnav Chauhan,ME,8.09,Core_ME,,Unplaced,Not Placed
+23ME10103,Mukul Anissh G,ME,8.07,Data,Core_ME,Unplaced,Not Placed
+23ME10104,Sritoma Nandan,ME,8.34,Data,Core_ME,Unplaced,Not Placed
+23ME10105,Pranav Khare,ME,7.53,Data,Core_ME,Unplaced,Not Placed
+23ME10106,Sahil Kumar Gupta,ME,7.08,SDE,CONSULTING,Unplaced,Not Placed
+23ME10107,Prem Agarwal,ME,7.25,Data,Core_ME,Unplaced,Not Placed
+23ME10108,Rudraksh Sharma,ME,7.85,Core_ME,,Opted_Out,Not Placed
+23ME10109,Samarth Jauhal,ME,7.04,Core_ME,,Opted_Out,Not Placed
+23ME10110,Sarthak Mazumder,ME,8.67,Core_ME,,Unplaced,Not Placed
+23ME10112,Sailor Dhruv Jayeshbhai,ME,7.2,Core_ME,,Unplaced,Not Placed
+23ME10113,Videh Jha,ME,7.81,Data,Core_ME,Unplaced,Not Placed
+23ME10114,Aditya Roy,ME,7.22,Data,Core_ME,Unplaced,Not Placed
+23ME10115,Gaurav Singh,ME,8.27,Data,Core_ME,Unplaced,Not Placed
+23ME10117,Ankit Bhattacharjee,ME,7.42,Data,Core_ME,Opted_Out,Not Placed
+23ME10118,Arkapratim Debnath,ME,8.6,Data,Core_ME,Unplaced,Not Placed
+23ME10119,Priyavrat Shrivardhan Mohta,ME,8.95,Core_ME,,Unplaced,Not Placed
+23ME10120,Venugopal Venkat,ME,7.62,Core_ME,,Unplaced,Not Placed
+23ME10121,Kreesh Vijay Modi,ME,8.79,Data,Core_ME,Unplaced,Not Placed
+23ME10122,Kunal Mandal,ME,8.69,Data,Core_ME,Unplaced,Not Placed
+23ME10123,Yuvraj Veer,ME,8.56,Data,Core_ME,Placed,Blackrock_Data
+23ME10124,Pitambar Mukherjee,ME,7.01,Data,Core_ME,Unplaced,Not Placed
+23MF10001,Aishwarya Dehariya,MF,7.35,Data,Core_MF,Unplaced,Not Placed
+23MF10002,Anirudh Agrawal,MF,7.37,Data,Core_MF,Unplaced,Not Placed
+23MF10004,Anubhab Sharma,MF,8.59,Data,Core_MF,Unplaced,Not Placed
+23MF10005,Arbud Mondal,MF,6.62,Core_MF,,Unplaced,Not Placed
+23MF10007,Aryan Malhotra,MF,8.06,Core_MF,,Unplaced,Not Placed
+23MF10008,Ayush Verma,MF,7.69,Data,Core_MF,Unplaced,Not Placed
+23MF10009,Chelsi Pal,MF,7.79,Data,Core_MF,Unplaced,Not Placed
+23MF10010,Choudhari Pratham Vithal,MF,7.69,Data,Core_MF,Unplaced,Not Placed
+23MF10011,Divyansh Jain,MF,8.77,Data,Core_MF,Unplaced,Not Placed
+23MF10012,Harsh Anand,MF,7.43,Data,Core_MF,Unplaced,Not Placed
+23MF10013,Harsh Vibhor Sharma,MF,8.92,Core_MF,,Unplaced,Not Placed
+23MF10014,Hitarth Pritesh Vora,MF,8.34,SDE,CONSULTING,Unplaced,Not Placed
+23MF10015,Ishan Bala,MF,7.88,Core_MF,,Unplaced,Not Placed
+23MF10017,Khumkar Harshvardhan Rajesh,MF,6.8,Data,Core_MF,Unplaced,Not Placed
+23MF10019,Laxman Shekhar Rathod,MF,7.44,CONSULTING,Core_MF,Unplaced,Not Placed
+23MF10021,Meda Srinu,MF,8.13,Core_MF,,Unplaced,Not Placed
+23MF10022,Mehika Pancholi,MF,6.57,Data,Core_MF,Unplaced,Not Placed
+23MF10023,Modha Soumya Vahini,MF,8.59,Core_MF,,Unplaced,Not Placed
+23MF10024,Mohammed Aadil Abbas Mulani,MF,7.69,Data,Core_MF,Opted_Out,Not Placed
+23MF10025,Moli Maheshwari,MF,8.68,Data,Core_MF,Unplaced,Not Placed
+23MF10026,Naavya Modi,MF,7.8,Data,Core_MF,Unplaced,Not Placed
+23MF10027,Naveen Saini,MF,7.55,Data,Core_MF,Opted_Out,Not Placed
+23MF10028,Nenavath Srikanth Rathod,MF,8.88,Data,Core_MF,Placed,Blackrock_Data
+23MF10029,Pranay Bansal,MF,7.08,Data,Core_MF,Unplaced,Not Placed
+23MF10032,Punit Chaurasia,MF,8.1,Data,Core_MF,Unplaced,Not Placed
+23MF10034,Ramkrishna Rathore,MF,7.03,Data,Core_MF,Unplaced,Not Placed
+23MF10035,Sanghmitra Rai,MF,7.52,Data,CONSULTING,Unplaced,Not Placed
+23MF10036,Sauparna Das,MF,7.78,Data,Core_MF,Opted_Out,Not Placed
+23MF10038,Shivam Rai,MF,7.42,Data,Core_MF,Unplaced,Not Placed
+23MF10040,Subhash Murmu,MF,8.69,CONSULTING,Core_MF,Unplaced,Not Placed
+23MF10041,Tanisha Jaiswal,MF,8.4,Core_MF,,Unplaced,Not Placed
+23MF10042,Theyanesh Eswaramoorthy Rajahkrishnan,MF,8.09,Core_MF,,Unplaced,Not Placed
+23MF10043,Vatsal Sinha,MF,8.2,Core_MF,,Unplaced,Not Placed
+23MF10045,Devansh Sinha,MF,8.53,Data,Core_MF,Unplaced,Not Placed
+23MF10046,Harshit Soni,MF,7.54,Data,Core_MF,Unplaced,Not Placed
+23CY10001,ABHINAV KUMAR,CY,8.38,Data,SDE,Unplaced,Not Placed
+23CY10002,ADITYA ROY,CY,7.47,Data,,Unplaced,Not Placed
+23CY10003,ANSH JALAN,CY,8.44,Data,SDE,Opted_Out,Not Placed
+23CY10004,ANUPAM MONDAL,CY,7.02,Data,SDE,Opted_Out,Not Placed
+23CY10005,ANURAG SINGH,CY,9.23,Quant,SDE,Opted_Out,Not Placed
+23CY10006,ARITRA BARMAN,CY,6.72,Data,SDE,Unplaced,Not Placed
+23CY10007,ARYAN DONGRE,CY,7.61,Data,SDE,Opted_Out,Not Placed
+23CY10008,AYUSH KUMAR SAINI,CY,8.03,Data,SDE,Unplaced,Not Placed
+23CY10009,BHAVESH SUHAS RODE,CY,8.92,Data,SDE,Unplaced,Not Placed
+23CY10010,DHRUV GEHLOT,CY,8.55,Data,SDE,Unplaced,Not Placed
+23CY10011,DIVYANSH AGARWAL,CY,8.58,Data,SDE,Unplaced,Not Placed
+23CY10012,GUGULOTH ARJUN,CY,7.96,Data,SDE,Opted_Out,Not Placed
+23CY10013,HARSH PRASHANT TADAS,CY,7.8,Data,SDE,Unplaced,Not Placed
+23CY10014,HARSH SAHU,CY,7.85,Data,SDE,Unplaced,Not Placed
+23CY10015,HARSHITA RATHI,CY,6.81,Data,SDE,Unplaced,Not Placed
+23CY10016,ISLAVATH SIVA RAMA KRISHNA,CY,8.92,Data,SDE,Unplaced,Not Placed
+23CY10017,JIYA MANJARI,CY,8.24,Data,SDE,Unplaced,Not Placed
+23CY10018,KARKHILE OMKAR SUNIL,CY,7.98,Data,SDE,Unplaced,Not Placed
+23CY10019,KEMPEGOWDA M P,CY,8.54,Data,CONSULTING,Unplaced,Not Placed
+23CY10020,KORAPOTHULA HRUSHIKESH WAR VARDHAN,CY,8.07,Data,SDE,Unplaced,Not Placed
+23CY10021,KRISHNA BHATIA,CY,8.94,Data,SDE,Unplaced,Not Placed
+23CY10022,KUNAL SURANA,CY,7.95,Data,SDE,Unplaced,Not Placed
+23CY10023,KURAGAYALA SHASHIDHAR,CY,7.66,Data,SDE,Unplaced,Not Placed
+23CY10024,MOTTE LIKHITA,CY,8.27,Data,SDE,Unplaced,Not Placed
+23CY10025,P KAVIN,CY,7.5,Data,SDE,Unplaced,Not Placed
+23CY10026,POLE ADVAIT BHANUDAS,CY,8.33,CONSULTING,SDE,Unplaced,Not Placed
+23CY10027,POOJA,CY,8.35,Data,SDE,Unplaced,Not Placed
+23CY10028,PRANJAL PATHAK,CY,8.56,Data,SDE,Opted_Out,Not Placed
+23CY10029,PUNEET GUPTA,CY,7.27,Data,SDE,Unplaced,Not Placed
+23CY10030,ROHIT PALLIWAL,CY,8.52,Data,SDE,Unplaced,Not Placed
+23CY10031,SAANVI SAMEER NALAVDE,CY,7.42,Data,SDE,Unplaced,Not Placed
+23CY10032,SABLE KRISHNA NILKANTH,CY,7.57,Data,SDE,Unplaced,Not Placed
+23CY10033,SHALEEN AGARWAL,CY,7.42,SDE,CONSULTING,Unplaced,Not Placed
+23CY10034,SHOBHIT RANJAN,CY,8.88,Data,SDE,Unplaced,Not Placed
+23CY10035,SHREYASH KUMAR SINGH,CY,8.08,Data,SDE,Unplaced,Not Placed
+23CY10036,SHUBHRAJ SINGH DODIYA,CY,7.59,Data,SDE,Unplaced,Not Placed
+23CY10037,SWAYAM SRIVASTAVA,CY,8.93,Data,SDE,Unplaced,Not Placed
+23CY10038,TEJAL SAURABHI,CY,7.99,Data,SDE,Unplaced,Not Placed
+23CY10039,VILLURI VENKATA LAKSHMAN SHANMUKH,CY,8.12,CONSULTING,SDE,Unplaced,Not Placed
+23CY10040,VIRAJ GUPTA,CY,7.83,Data,SDE,Unplaced,Not Placed
+23CY10041,VONTEDDU BHARATH SIDDARDHA REDDY,CY,8.27,Data,SDE,Unplaced,Not Placed
+23CY10042,WALUNJ OMKAR VILAS,CY,7.37,Data,SDE,Unplaced,Not Placed
+23CY10043,YOGESH SHARMA,CY,7.89,Data,SDE,Unplaced,Not Placed

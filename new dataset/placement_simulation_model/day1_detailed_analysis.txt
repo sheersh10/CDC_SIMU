@@ -1,0 +1,64 @@
+================================================================================
+DAY 1 PLACEMENT RESULTS - DETAILED ANALYSIS
+================================================================================
+
+1. OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Students: 1223
+
+Status Distribution:
+status
+Unplaced     1006
+Placed        120
+Opted_Out      97
+
+2. DEPARTMENT-WISE PLACEMENT RATE
+--------------------------------------------------------------------------------
+CS: 36/90 (40.0%)
+MA: 23/74 (31.1%)
+SD: 4/21 (19.0%)
+EC: 15/95 (15.8%)
+HS: 9/65 (13.8%)
+AG: 4/40 (10.0%)
+MT: 3/45 (6.7%)
+GG: 3/47 (6.4%)
+IM: 2/41 (4.9%)
+CY: 2/43 (4.7%)
+EE: 4/89 (4.5%)
+IE: 2/48 (4.2%)
+CH: 3/87 (3.4%)
+CE: 2/58 (3.4%)
+ME: 3/105 (2.9%)
+EX: 1/42 (2.4%)
+AE: 1/43 (2.3%)
+BT: 0/30 (0.0%)
+MF: 0/35 (0.0%)
+MI: 0/46 (0.0%)
+PH: 0/39 (0.0%)
+
+3. COMPANY-WISE PLACEMENTS
+--------------------------------------------------------------------------------
+Google_SWE: 11
+Amazon_SDE: 10
+Microsoft_Software Development: 9
+Blackrock_Finance: 8
+Google_Core: 7
+Adobe_Software (Research Intern): 7
+Databricks_Software: 7
+Morgan Stanley_Sales and Trading: 6
+Graviton Research Capital_Software: 6
+Optiver_Quant: 6
+BAIN_Consulting: 5
+Adobe_Software (Product): 5
+Quadeye_Quant: 4
+Blackrock_Data: 4
+BCG_Consulting: 4
+American Express_Analyst: 4
+Alphagrep_Software: 4
+Rubrik_SDE: 3
+Stripe_Data: 3
+DE Shaw & Co_Software: 2
+Glean_SWE: 2
+Nomura_Wholesale Strategy: 1
+UBER_SDE: 1
+Nomura_Algo-Quants: 1
