@@ -1,0 +1,17 @@
+# Placement Simulation Dashboard - Python Dependencies
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data Processing
+pandas
+numpy
+
+# CORS Middleware
+python-dotenv
+
+# Type Hints
+pydantic
+typing-extensions

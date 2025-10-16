@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placement Simulation Dashboard - Complete Analytics</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        .chart-container {
+            position: relative;
+            height: 400px;
+            margin: 20px 0;
+        }
+        .chart-container-large {
+            height: 500px;
+        }
+        .chart-container-small {
+            height: 300px;
+        }
+        .section-header {
+            margin: 40px 0 20px 0;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin: 20px 0;
+        }
+        .chart-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .chart-card h3 {
+            margin: 0 0 15px 0;
+            color: #333;
+            font-size: 1.2em;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        .full-width {
+            grid-column: 1 / -1;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <h1>Placement Simulation Dashboard</h1>
+                </div>
+                <nav class="nav-menu">
+                    <button class="nav-btn active" data-section="overview">
+                        <i class="fas fa-home"></i> Overview
+                    </button>
+                    <button class="nav-btn" data-section="students">
+                        <i class="fas fa-users"></i> Student Analytics
+                    </button>
+                    <button class="nav-btn" data-section="companies">
+                        <i class="fas fa-building"></i> Company Analytics
+                    </button>
+                    <button class="nav-btn" data-section="results">
+                        <i class="fas fa-chart-bar"></i> Results
+                    </button>
+                </nav>
+                <div class="header-actions">
+                    <button class="theme-toggle" id="themeToggle">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <button class="refresh-btn" id="refreshBtn">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        
+        <!-- Overview Section -->
+        <section id="overview-section" class="content-section active">
+            <div class="container">
+                <h2 class="section-title">📊 Dashboard Overview</h2>
+                
+                <!-- Summary Cards -->
+                <div class="summary-cards">
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Total Students</h3>
+                            <p class="card-value" id="total-students">-</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                            <i class="fas fa-building"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Total Companies</h3>
+                            <p class="card-value" id="total-companies">-</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                            <i class="fas fa-percent"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Placement Rate</h3>
+                            <p class="card-value" id="placement-rate">-%</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+                            <i class="fas fa-user-check"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Placed Students</h3>
+                            <p class="card-value" id="placed-students">-</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Avg CGPA (All)</h3>
+                            <p class="card-value" id="avg-cgpa-all">-</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card summary-card">
+                        <div class="card-icon" style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">
+                            <i class="fas fa-trophy"></i>
+                        </div>
+                        <div class="card-content">
+                            <h3>Avg CGPA (Placed)</h3>
+                            <p class="card-value" id="avg-cgpa-placed">-</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-header">
+                    <i class="fas fa-chart-pie"></i> Quick Overview Charts
+                </div>
+
+                <!-- Quick Overview Charts -->
+                <div class="chart-grid">
+                    <div class="chart-card">
+                        <h3><i class="fas fa-users"></i> Department Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="deptDistChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-card">
+                        <h3><i class="fas fa-chart-bar"></i> CGPA Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="cgpaDistChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-card">
+                        <h3><i class="fas fa-check-circle"></i> Placement Status</h3>
+                        <div class="chart-container">
+                            <canvas id="statusChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-card">
+                        <h3><i class="fas fa-briefcase"></i> Domain Preferences</h3>
+                        <div class="chart-container">
+                            <canvas id="domainChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Student Analytics Section -->
+        <section id="students-section" class="content-section">
+            <div class="container">
+                <h2 class="section-title">👨‍🎓 Student Analytics</h2>
+                
+                <div class="section-header">
+                    <i class="fas fa-chart-area"></i> Departmental Performance Analysis
+                </div>
+                
+                <div class="chart-grid">
+                    <!-- Department Hit Rate -->
+                    <div class="chart-card full-width">
+                        <h3><i class="fas fa-chart-bar"></i> Department Hit Rate: Total vs Placed Students</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> This chart shows the placement gap - comparing total students vs actually placed students by department
+                        </p>
+                        <div class="chart-container chart-container-large">
+                            <canvas id="deptHitRateChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Placement Rate by Department -->
+                    <div class="chart-card full-width">
+                        <h3><i class="fas fa-percentage"></i> Placement Rate by Department (%)</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Horizontal bar chart showing placement success rate across departments
+                        </p>
+                        <div class="chart-container chart-container-large">
+                            <canvas id="placementRateChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-header">
+                    <i class="fas fa-graduation-cap"></i> CGPA Analysis
+                </div>
+                
+                <div class="chart-grid">
+                    <!-- CGPA Box Plot -->
+                    <div class="chart-card full-width">
+                        <h3><i class="fas fa-chart-line"></i> CGPA Distribution Across Departments</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Box plot comparison showing CGPA patterns - which departments have students with 9+ CGPA
+                        </p>
+                        <div class="chart-container chart-container-large">
+                            <canvas id="cgpaBoxPlotChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-header">
+                    <i class="fas fa-th"></i> Department × Domain Matrix
+                </div>
+                
+                <div class="chart-grid">
+                    <!-- Department × Domain Heatmap -->
+                    <div class="chart-card full-width">
+                        <h3><i class="fas fa-table"></i> Department × Domain Heatmap</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Stacked visualization showing which domains students from each department prefer
+                        </p>
+                        <div class="chart-container chart-container-large">
+                            <canvas id="deptDomainHeatmap"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Company Analytics Section -->
+        <section id="companies-section" class="content-section">
+            <div class="container">
+                <h2 class="section-title">🏢 Company Analytics</h2>
+                
+                <div class="section-header">
+                    <i class="fas fa-building"></i> Company Distribution & Hiring Capacity
+                </div>
+                
+                <div class="chart-grid">
+                    <!-- Company Distribution by Role -->
+                    <div class="chart-card">
+                        <h3><i class="fas fa-pie-chart"></i> Companies by Role Type</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Distribution of companies across SDE, Quant, Data, etc.
+                        </p>
+                        <div class="chart-container">
+                            <canvas id="companyRoleChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Day-wise Company Distribution -->
+                    <div class="chart-card">
+                        <h3><i class="fas fa-calendar-alt"></i> Companies Per Day</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Number of companies visiting on each day
+                        </p>
+                        <div class="chart-container">
+                            <canvas id="dayWiseCompaniesChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Role Type Analysis -->
+                    <div class="chart-card">
+                        <h3><i class="fas fa-chart-bar"></i> Min vs Max Hiring Capacity</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Total hiring capacity across all companies
+                        </p>
+                        <div class="chart-container">
+                            <canvas id="roleTypeAnalysisChart"></canvas>
+                        </div>
+                    </div>
+                    
+                    <!-- Capacity Utilization -->
+                    <div class="chart-card">
+                        <h3><i class="fas fa-chart-pie"></i> Capacity Utilization</h3>
+                        <p style="color: #666; font-size: 0.9em; margin: 5px 0 15px 0;">
+                            <i class="fas fa-info-circle"></i> Minimum required vs total capacity
+                        </p>
+                        <div class="chart-container">
+                            <canvas id="capacityUtilizationChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results-section" class="content-section">
+            <div class="container">
+                <h2 class="section-title">📈 Simulation Results</h2>
+                
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle"></i>
+                    <strong>Note:</strong> Run the simulation from the Configuration tab to see placement results here.
+                </div>
+
+                <div class="section-header">
+                    <i class="fas fa-trophy"></i> Placement Results (After Simulation)
+                </div>
+
+                <p style="text-align: center; color: #999; margin: 60px 0;">
+                    <i class="fas fa-chart-line fa-3x"></i>
+                    <br><br>
+                    Simulation results will appear here after running the placement simulation.
+                </p>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Load Scripts -->
+    <script src="/static/js/app_enhanced.js"></script>
+</body>
+</html>
